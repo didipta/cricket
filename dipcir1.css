@@ -95,7 +95,7 @@ body{
 	background:none;
 }
 
-@media screen and (max-width:700px)
+@media screen and (max-width:800px)
 {
 
 	
@@ -104,7 +104,7 @@ body{
 	height:50vh;
 	position:absolute;
 	left:1vh;
-	top:2vh;
+	top:1vh;
 	display:white;
 	background:white;
 	border-radius:10px;
@@ -128,7 +128,7 @@ body{
 
 
 .fix h2{
-	width:15vh;
+	width:20vh;
 	position:absolute;
 	left:1vh;
 	top:55vh;
