@@ -98,17 +98,19 @@ body{
 	background:none;
 }
 
-@media screen and (max-width:600px)
-body{
-	width:45vh;
-	}
-	
+@media screen and (max-width:770px)
+
+{
+
+#body{
+	width:;
+}	
 .messi img{
-	width:45vh;
-	height:50vh;
+	width:320px;
+	height:260px;
 	position:absolute;
-	left:1vh;
-	top:2vh;
+	left:0vh;
+	top:0vh;
 	display:white;
 	background:white;
 	border-radius:10px;
@@ -119,69 +121,68 @@ body{
 	}
 	
 .next h4{
-	width:20vh;
+	width:100px;
 	height:7vh;
 	position:absolute;
-	left:12vh;
+	left:22vh;
 	top:82vh;
 	text-align:center;
 	color:white;
-	font-size:2vh;
+	font-size:10px;
 	background:black;
 }
 
 
 .fix h2{
-	width:20vh;
+	width:100px;
 	position:absolute;
-	left:1vh;
+	left:3vh;
 	top:55vh;
 	display:blue;
-	font-size:2.2vh;
-	background:white;
+	font-size:12px;
+	background:none;
 }
 .lea h2{
-	width:20vh;
+	width:100px;
 	position:absolute;
-	left:21vh;
+	left:30vh;
 	top:55vh;
 	display:blue;
-	font-size:2.2vh;
+	font-size:12px;
 	background:white;
 }
 .play h2{
-	width:10vh;
+	width:50px;
 	position:absolute;
-	left:38vh;
+	left:55vh;
 	top:55vh;
-	font-size:2.2vh;
+	font-size:12px;
 	display:blue;
-	background:white;
+	background:none;
 }
 .g img{
-	width:30vh;
+	width:150px;
 	position:absolute;
-	left:5vh;
+	left:17vh;
 	top:64vh;
 	display:white;
 	background:none;
 }
 .text h5{
-	width:40vh;
-	height:7vh;
+	width:200px;
 	position:absolute;
-	left:3vh;
+	left:12vh;
 	top:70vh;
 	display:white;
-	font-size:2vh;
+	font-size:11px;
 	background:white;
 }
 .na h3{
-	width:18vh;
+	width:40px;
 	position:absolute;
-	left:19vh;
+	left:28vh;
 	top:95vh;
-	font-size:1.5vh;
+	font-size:8px;
 	background:none;
 }
 }
