@@ -98,10 +98,9 @@ body{
 	background:none;
 }
 
-@media screen and (max-width:1000vh)
-{
+@media screen and (max-width:600px)
 body{
-	width:45vh
+	width:45vh;
 	}
 	
 .messi img{
