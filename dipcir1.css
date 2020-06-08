@@ -36,13 +36,13 @@ body{
 	display:white;
 	background:none;
 }
-.text img{
-	width:50vh;
+.text h5{
+	width:60vh;
 	position:absolute;
-	left:110vh;
-	top:48vh;
+	left:105vh;
+	top:45vh;
 	display:white;
-	background:none;
+	background:white;
 }
 .next h4{
 	width:25vh;
@@ -50,6 +50,7 @@ body{
 	position:absolute;
 	left:120vh;
 	top:68vh;
+	font-size:2vh;
 	text-align:center;
 	color:white;
 	background:black;
@@ -157,17 +158,18 @@ body{
 	width:30vh;
 	position:absolute;
 	left:5vh;
-	top:62vh;
+	top:64vh;
 	display:white;
 	background:none;
 }
-.text img{
-	width:40vh;
+.text h5{
+	width:45vh;
 	height:7vh;
 	position:absolute;
 	left:2vh;
-	top:72vh;
+	top:69vh;
 	display:white;
+	font-size:2vh;
 	background:white;
 }
 .na h3{
