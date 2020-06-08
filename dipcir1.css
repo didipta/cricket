@@ -32,7 +32,7 @@ body{
 	width:30vh;
 	position:absolute;
 	left:120vh;
-	top:35vh;
+	top:32vh;
 	display:white;
 	background:none;
 }
@@ -128,22 +128,22 @@ body{
 
 
 .fix h2{
-	width:20vh;
+	width:15vh;
 	position:absolute;
 	left:1vh;
 	top:55vh;
 	display:blue;
 	font-size:2.2vh;
-	background:white;
+	background:none;
 }
 .lea h2{
-	width:20vh;
+	width:15vh;
 	position:absolute;
 	left:21vh;
 	top:55vh;
 	display:blue;
 	font-size:2.2vh;
-	background:white;
+	background:none;
 }
 .play h2{
 	width:10vh;
@@ -152,7 +152,7 @@ body{
 	top:55vh;
 	font-size:2.2vh;
 	display:blue;
-	background:white;
+	background:none;
 }
 .g img{
 	width:30vh;
