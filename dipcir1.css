@@ -98,16 +98,14 @@ body{
 	background:none;
 }
 
-@media screen and (max-width:770px)
+@media screen and (max-width:800vh)
 
 {
 
-#body{
-	width:;
-}	
+
 .messi img{
-	width:100%;
-	height:55%;
+	width:66.5vh;
+	height:50vh;
 	position:absolute;
 	left:0vh;
 	top:0vh;
@@ -121,68 +119,69 @@ body{
 	}
 	
 .next h4{
-	width:30%;
-	height:7%;
+	width:20vh;
+	height:7vh;
 	position:absolute;
 	left:22vh;
 	top:82vh;
 	text-align:center;
 	color:white;
-	font-size:10px;
+	font-size:2vh;
 	background:black;
 }
 
 
 .fix h2{
-	width:30%;
+	width:30vh;
 	position:absolute;
-	left:3vh;
-	top:55vh;
+	left:2vh;
+	top:52vh;
 	display:blue;
-	font-size:12px;
+	font-size:3vh;
 	background:none;
 }
 .lea h2{
-	width:30%;
+	width:30vh;
 	position:absolute;
-	left:30vh;
-	top:55vh;
+	left:28vh;
+	top:52vh;
 	display:blue;
-	font-size:12px;
-	background:white;
+	font-size:3vh;
+	background:none;
 }
 .play h2{
-	width:20%;
+	width:10vh;
 	position:absolute;
-	left:52vh;
-	top:55vh;
-	font-size:12px;
+	left:49vh;
+	top:52vh;
+	font-size:3vh;
 	display:blue;
 	background:none;
 }
 .g img{
-	width:50%;
+	width:30vh;
 	position:absolute;
-	left:17vh;
+	left:15vh;
 	top:64vh;
 	display:white;
 	background:none;
 }
 .text h5{
-	width:70%;
+	width:50vh;
+	height:7vh;
 	position:absolute;
-	left:10vh;
-	top:69vh;
+	left:9vh;
+	top:68vh;
 	display:white;
-	font-size:11px;
+	font-size:2.5vh;
 	background:white;
 }
 .na h3{
-	width:40%;
+	width:18vh;
 	position:absolute;
 	left:28vh;
 	top:95vh;
-	font-size:8px;
+	font-size:2vh;
 	background:none;
 }
 }
