@@ -112,9 +112,9 @@
 	}
 	.next h4{
 	width:20vh;
-	height:8vh;
+	height:7vh;
 	position:absolute;
-	left:23vh;
+	left:20vh;
 	top:85vh;
 	text-align:center;
 	color:white;
@@ -154,7 +154,7 @@
 .g img{
 	width:30vh;
 	position:absolute;
-	left:16vh;
+	left:13vh;
 	top:65vh;
 	display:white;
 	background:none;
@@ -170,7 +170,7 @@
 .na h3{
 	width:18vh;
 	position:absolute;
-	left:30vh;
+	left:26vh;
 	top:95vh;
 	font-size:1.5vh;
 	background:none;
