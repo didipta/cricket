@@ -92,13 +92,12 @@
 	font-size:3vh;
 	background:none;
 }
-
-@media screen and (max-width:670px)
+@media screen and (max-width:770px)
 {
 
 	
 .messi img{
-	width:60vh;
+	width:45vh;
 	height:50vh;
 	position:absolute;
 	left:3vh;
@@ -125,45 +124,45 @@
 
 
 .fix h2{
-	width:30vh;
+	width:15vh;
 	position:absolute;
-	left:3vh;
+	left:6vh;
 	top:57vh;
 	display:blue;
-	font-size:3vh;
+	font-size:2vh;
 	background:none;
 	font-size-adjust:10vh;
 }
 .lea h2{
-	width:30vh;
+	width:15vh;
 	position:absolute;
-	left:30vh;
+	left:25vh;
 	top:57vh;
 	display:blue;
-	font-size:3vh;
+	font-size:2vh;
 	background:none;
 }
 .play h2{
-	width:10vh;
+	width:15vh;
 	position:absolute;
-	left:53vh;
+	left:40vh;
 	top:57vh;
-	font-size:3vh;
+	font-size:2vh;
 	display:blue;
 	background:none;
 }
 .g img{
 	width:30vh;
 	position:absolute;
-	left:20vh;
+	left:16vh;
 	top:65vh;
 	display:white;
 	background:none;
 }
 .text img{
-	width:50vh;
+	width:40vh;
 	position:absolute;
-	left:10vh;
+	left:7vh;
 	top:75vh;
 	display:white;
 	background:none;
