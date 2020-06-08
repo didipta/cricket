@@ -104,8 +104,8 @@ body{
 
 
 .messi img{
-	width:66.5vh;
-	height:50vh;
+	width:46vh;
+	height:53vh;
 	position:absolute;
 	left:0vh;
 	top:0vh;
@@ -122,7 +122,7 @@ body{
 	width:20vh;
 	height:7vh;
 	position:absolute;
-	left:22vh;
+	left:12vh;
 	top:82vh;
 	text-align:center;
 	color:white;
@@ -132,56 +132,56 @@ body{
 
 
 .fix h2{
-	width:30vh;
+	width:20vh;
 	position:absolute;
-	left:2vh;
-	top:52vh;
+	left:1vh;
+	top:55vh;
 	display:blue;
-	font-size:3vh;
-	background:none;
+	font-size:2.2vh;
+	background:white;
 }
 .lea h2{
-	width:30vh;
+	width:20vh;
 	position:absolute;
-	left:28vh;
-	top:52vh;
+	left:21vh;
+	top:55vh;
 	display:blue;
-	font-size:3vh;
-	background:none;
+	font-size:2.2vh;
+	background:white;
 }
 .play h2{
 	width:10vh;
 	position:absolute;
-	left:49vh;
-	top:52vh;
-	font-size:3vh;
+	left:38vh;
+	top:55vh;
+	font-size:2.2vh;
 	display:blue;
-	background:none;
+	background:white;
 }
 .g img{
 	width:30vh;
 	position:absolute;
-	left:15vh;
+	left:5vh;
 	top:64vh;
 	display:white;
 	background:none;
 }
 .text h5{
-	width:50vh;
+	width:40vh;
 	height:7vh;
 	position:absolute;
-	left:9vh;
-	top:68vh;
+	left:3vh;
+	top:70vh;
 	display:white;
-	font-size:2.5vh;
+	font-size:2vh;
 	background:white;
 }
 .na h3{
 	width:18vh;
 	position:absolute;
-	left:28vh;
+	left:19vh;
 	top:95vh;
-	font-size:2vh;
+	font-size:1.5vh;
 	background:none;
 }
 }
