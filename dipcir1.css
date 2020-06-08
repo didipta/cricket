@@ -20,8 +20,9 @@ body{
 	left:13vh;
 	top:16vh;
 	display:white;
+	font-size:10vh;
 	background:white;
-	border-radius:35px;
+	border-radius:10vh;
 	
 }
 .r img{
@@ -32,15 +33,17 @@ body{
 	width:30vh;
 	position:absolute;
 	left:120vh;
-	top:32vh;
+	top:35vh;
 	display:white;
 	background:none;
 }
 .text h5{
 	width:60vh;
+	height:10vh;
 	position:absolute;
 	left:105vh;
 	top:45vh;
+	font-size:3vh;
 	display:white;
 	background:white;
 }
@@ -104,7 +107,7 @@ body{
 	height:50vh;
 	position:absolute;
 	left:1vh;
-	top:1vh;
+	top:2vh;
 	display:white;
 	background:white;
 	border-radius:10px;
@@ -134,16 +137,16 @@ body{
 	top:55vh;
 	display:blue;
 	font-size:2.2vh;
-	background:none;
+	background:white;
 }
 .lea h2{
-	width:15vh;
+	width:20vh;
 	position:absolute;
 	left:21vh;
 	top:55vh;
 	display:blue;
 	font-size:2.2vh;
-	background:none;
+	background:white;
 }
 .play h2{
 	width:10vh;
@@ -152,7 +155,7 @@ body{
 	top:55vh;
 	font-size:2.2vh;
 	display:blue;
-	background:none;
+	background:white;
 }
 .g img{
 	width:30vh;
