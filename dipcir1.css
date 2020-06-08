@@ -138,7 +138,7 @@ body{
 	top:55vh;
 	display:blue;
 	font-size:2.2vh;
-	background:white;
+	background:none;
 }
 .lea h2{
 	width:20vh;
@@ -147,7 +147,7 @@ body{
 	top:55vh;
 	display:blue;
 	font-size:2.2vh;
-	background:white;
+	background:none;
 }
 .play h2{
 	width:10vh;
@@ -156,7 +156,7 @@ body{
 	top:55vh;
 	font-size:2.2vh;
 	display:blue;
-	background:white;
+	background:none;
 }
 .g img{
 	width:30vh;
