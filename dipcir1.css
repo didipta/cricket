@@ -187,3 +187,178 @@ body{
 }
 }
 	
+@media screen and (max-width:800vh)
+
+{	
+.messi img{
+	width:45vh;
+	height:50vh;
+	position:absolute;
+	left:1vh;
+	top:2vh;
+	display:white;
+	background:white;
+	border-radius:10px;
+	
+}
+.r img{
+	width:0vh;
+	}
+	
+.next h4{
+	width:20vh;
+	height:7vh;
+	position:absolute;
+	left:12vh;
+	top:82vh;
+	text-align:center;
+	color:white;
+	font-size:2vh;
+	background:black;
+}
+
+
+.fix h2{
+	width:20vh;
+	position:absolute;
+	left:1vh;
+	top:55vh;
+	display:blue;
+	font-size:2.2vh;
+	background:white;
+}
+.lea h2{
+	width:20vh;
+	position:absolute;
+	left:21vh;
+	top:55vh;
+	display:blue;
+	font-size:2.2vh;
+	background:white;
+}
+.play h2{
+	width:10vh;
+	position:absolute;
+	left:38vh;
+	top:55vh;
+	font-size:2.2vh;
+	display:blue;
+	background:white;
+}
+.g img{
+	width:30vh;
+	position:absolute;
+	left:5vh;
+	top:64vh;
+	display:white;
+	background:none;
+}
+.text h5{
+	width:40vh;
+	height:7vh;
+	position:absolute;
+	left:3vh;
+	top:70vh;
+	display:white;
+	font-size:2vh;
+	background:white;
+}
+.na h3{
+	width:18vh;
+	position:absolute;
+	left:19vh;
+	top:95vh;
+	font-size:1.5vh;
+	background:none;
+}
+}
+@media screen and (max-width:800vh)
+
+{
+
+#body{
+	width:;
+}	
+.messi img{
+	width:45vh;
+	height:50vh;
+	position:absolute;
+	left:1vh;
+	top:2vh;
+	display:white;
+	background:white;
+	border-radius:10px;
+	
+}
+.r img{
+	width:0vh;
+	}
+	
+.next h4{
+	width:20vh;
+	height:7vh;
+	position:absolute;
+	left:12vh;
+	top:82vh;
+	text-align:center;
+	color:white;
+	font-size:2vh;
+	background:black;
+}
+
+
+.fix h2{
+	width:20vh;
+	position:absolute;
+	left:1vh;
+	top:55vh;
+	display:blue;
+	font-size:2.2vh;
+	background:white;
+}
+.lea h2{
+	width:20vh;
+	position:absolute;
+	left:21vh;
+	top:55vh;
+	display:blue;
+	font-size:2.2vh;
+	background:white;
+}
+.play h2{
+	width:10vh;
+	position:absolute;
+	left:38vh;
+	top:55vh;
+	font-size:2.2vh;
+	display:blue;
+	background:white;
+}
+.g img{
+	width:30vh;
+	position:absolute;
+	left:5vh;
+	top:64vh;
+	display:white;
+	background:none;
+}
+.text h5{
+	width:40vh;
+	height:7vh;
+	position:absolute;
+	left:3vh;
+	top:70vh;
+	display:white;
+	font-size:2vh;
+	background:white;
+}
+.na h3{
+	width:18vh;
+	position:absolute;
+	left:19vh;
+	top:95vh;
+	font-size:1.5vh;
+	background:none;
+}
+}
+		
