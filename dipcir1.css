@@ -1,7 +1,8 @@
-*{
+body{
 	margin:0;
 	padding:0;
 	font-family:san-serif;
+	background:white;
 }
 #ad{
 	width:100vh;
@@ -92,7 +93,8 @@
 	font-size:3vh;
 	background:none;
 }
-@media screen and (max-width:800px)
+
+@media screen and (max-width:700px)
 {
 
 	
@@ -134,7 +136,7 @@
 	background:white;
 }
 .lea h2{
-	width:15vh;
+	width:20vh;
 	position:absolute;
 	left:21vh;
 	top:55vh;
@@ -161,6 +163,7 @@
 }
 .text img{
 	width:40vh;
+	height:7vh;
 	position:absolute;
 	left:2vh;
 	top:72vh;
