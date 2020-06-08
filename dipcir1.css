@@ -1,0 +1,180 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:san-serif;
+}
+#ad{
+	width:100vh;
+	height:10vh;
+	
+}
+
+.messi{
+	background:white;
+}
+.messi img{
+	width:70vh;
+	height:70vh;
+	position:absolute;
+	left:13vh;
+	top:16vh;
+	display:white;
+	background:white;
+	border-radius:35px;
+	
+}
+.r img{
+	width:200vh;
+	position:center;
+}
+.g img{
+	width:30vh;
+	position:absolute;
+	left:120vh;
+	top:35vh;
+	display:white;
+	background:none;
+}
+.text img{
+	width:50vh;
+	position:absolute;
+	left:110vh;
+	top:48vh;
+	display:white;
+	background:none;
+}
+.next h4{
+	width:25vh;
+	height:8vh;
+	position:absolute;
+	left:120vh;
+	top:68vh;
+	text-align:center;
+	color:white;
+	background:black;
+}
+
+
+.fix h2{
+	width:30vh;
+	position:absolute;
+	left:100vh;
+	top:16vh;
+	display:blue;
+	font-size:3vh;
+	background:none;
+	font-size-adjust:10vh;
+}
+.lea h2{
+	width:20vh;
+	position:absolute;
+	left:130vh;
+	top:16vh;
+	display:blue;
+	font-size:3vh;
+	background:none;
+}
+.play h2{
+	width:30vh;
+	position:absolute;
+	left:155vh;
+	top:16vh;
+	font-size:3vh;
+	display:blue;
+	background:none;
+}
+
+.na h3{
+	width:18vh;
+	position:absolute;
+	left:100vh;
+	top:90vh;
+	font-size:3vh;
+	background:none;
+}
+
+@media screen and (max-width:770px)
+{
+	#ab
+	
+.messi img{
+	width:60vh;
+	height:50vh;
+	position:absolute;
+	left:3vh;
+	top:2vh;
+	display:white;
+	background:white;
+	border-radius:20px;
+	
+}
+.r img{
+	width:0vh;
+	}
+	.next h4{
+	width:20vh;
+	height:8vh;
+	position:absolute;
+	left:23vh;
+	top:85vh;
+	text-align:center;
+	color:white;
+	font-size:2vh;
+	background:black;
+}
+
+
+.fix h2{
+	width:30vh;
+	position:absolute;
+	left:3vh;
+	top:57vh;
+	display:blue;
+	font-size:3vh;
+	background:none;
+	font-size-adjust:10vh;
+}
+.lea h2{
+	width:30vh;
+	position:absolute;
+	left:30vh;
+	top:57vh;
+	display:blue;
+	font-size:3vh;
+	background:none;
+}
+.play h2{
+	width:10vh;
+	position:absolute;
+	left:53vh;
+	top:57vh;
+	font-size:3vh;
+	display:blue;
+	background:none;
+}
+.g img{
+	width:30vh;
+	position:absolute;
+	left:20vh;
+	top:65vh;
+	display:white;
+	background:none;
+}
+.text img{
+	width:50vh;
+	position:absolute;
+	left:10vh;
+	top:75vh;
+	display:white;
+	background:none;
+}
+.na h3{
+	width:18vh;
+	position:absolute;
+	left:30vh;
+	top:95vh;
+	font-size:1.5vh;
+	background:none;
+}
+}
+	
