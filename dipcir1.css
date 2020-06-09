@@ -129,7 +129,7 @@ body{
 	width:20vh;
 	height:7vh;
 	position:absolute;
-	left:12vh;
+	left:14vh;
 	top:82vh;
 	text-align:center;
 	color:white;
@@ -177,7 +177,7 @@ body{
 .g img{
 	width:30vh;
 	position:absolute;
-	left:5vh;
+	left:7vh;
 	top:64vh;
 	display:white;
 	background:none;
@@ -186,7 +186,7 @@ body{
 	width:40vh;
 	height:7vh;
 	position:absolute;
-	left:3vh;
+	left:5vh;
 	top:70vh;
 	display:white;
 	font-size:2vh;
@@ -195,7 +195,7 @@ body{
 .na h3{
 	width:18vh;
 	position:absolute;
-	left:19vh;
+	left:20vh;
 	top:95vh;
 	font-size:1.5vh;
 	background:none;
