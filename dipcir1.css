@@ -277,13 +277,13 @@ nav ul li a{
 	top:55vh;
 	right:0;
 	z-index:10;
-	animation:line 20s linear infinite;
+	animation:line 100s linear infinite;
 	
 }
 	@keyframes line{
 		100%{
 			
-			transform:translatex(-500vh);
+			transform:translatex(-50vh);
 		}
 	}
 }
