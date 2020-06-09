@@ -245,12 +245,12 @@ nav ul li a{
 	width:45vh;
 	height:100vh;
 	position:fixed;
-	right:-100vh;
+	right:-50vh;
 	top:0;
 	z-index:2;
-	background:rgba(0,0,0,0.5);
+	background:rgba(0,0,0,0.7);
 	transition:.5s;
-	
+	border-radius:15px;
 	
 }
 #me{
@@ -263,23 +263,22 @@ nav ul li a{
 	cursor:pointer;
 }
 .line{
-	height:7vh;
-	width:90vh;
-	background-image:url(line.png);
+	width:110vh;
+	height:2vh;
+	background:none;
 	position:absolute;
 	bottom:0;
-	left:10vh;
+	left:5vh;
 	top:55vh;
-	right:-100vh;
+	right:0;
 	z-index:10;
-	background-repeat:repeat-x;
-	animation:line 6s linear infinite;
+	animation:line 20s linear infinite;
 	
 }
 	@keyframes line{
 		100%{
 			
-			transform:translatex(-85vh);
+			transform:translatex(-120vh);
 		}
 	}
 }
