@@ -263,15 +263,15 @@ nav ul li a{
 	cursor:pointer;
 }
 .g img{
-	width:30vh;
+	width:26vh;
 	position:absolute;
 	left:1vh;
 	top:1vh;
 	display:white;
 	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 	background:none;
-	border:0.5vh solid white;
-	border-radius:20px;
+	border:0.3vh solid white;
+	border-radius:15px;
 }
 .line{
 	width:45vh;
