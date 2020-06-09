@@ -228,14 +228,14 @@ nav ul li a{
 nav ul li{
 	width:30vh;
 	list-style:none;
-	margin:5vh 6vh;
+	margin:6vh 7vh;
 
 
 }
 nav ul li a{
 	text-decoration:none;
 	color:darkblue;
-	font-size:1.5vh;
+	font-size:1.8vh;
 	
 	 
 	
@@ -243,10 +243,10 @@ nav ul li a{
 }
 #si{
 	width:55vh;
-	height:60vh;
+	height:55vh;
 	position:fixed;
 	right:-100vh;
-	top:5vh;
+	top:9vh;
 	z-index:2;
 	background:white;
 	transition:.5s;
