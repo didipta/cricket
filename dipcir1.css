@@ -37,12 +37,12 @@ body{
 	display:white;
 	background:none;
 }
-.text h5{
-	width:60vh;
+.text p{
+	width:65vh;
 	height:10vh;
 	position:absolute;
-	left:105vh;
-	top:45vh;
+	left:98vh;
+	top:47vh;
 	font-size:3vh;
 	display:white;
 	background:white;
