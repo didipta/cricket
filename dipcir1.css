@@ -1,3 +1,4 @@
+
 body{
 	margin:1vh;
 	padding:1vh;
@@ -29,7 +30,7 @@ body{
 	width:200vh;
 }
 .g img{
-	width:30vh;
+	width:50vh;
 	position:absolute;
 	left:120vh;
 	top:35vh;
@@ -104,15 +105,43 @@ body{
 	font-size:3vh;
 	background:none;
 }
-
+nav ul li{
+	list-style:none;
+	margin:0px 0px;
+}
+nav ul li a{
+	text-decoration:none;
+	color:white;
+	font-size:0px italic;
+}
+#si{
+	width:0;
+	height:0;
+	position:fixed;
+	right:0;
+	top:0;
+	z-index:0;
+	transition:0;
+	
+	
+}
+#me{
+	width:0px;
+	position:fixed;
+	left:-100vh;
+	top:-100vh;
+	z-index:0;
+	cursor:pointer;
+}
 @media screen and (max-width:800px)
+
 
 {
 
 
 .messi img{
 	width:45vh;
-	height:53vh;
+	height:55vh;
 	position:absolute;
 	left:0vh;
 	top:0vh;
@@ -129,7 +158,7 @@ body{
 	width:20vh;
 	height:7vh;
 	position:absolute;
-	left:14vh;
+	left:15vh;
 	top:82vh;
 	text-align:center;
 	color:white;
@@ -139,66 +168,119 @@ body{
 
 
 .fix h2{
-	width:20vh;
+	width:0vh;
 	position:absolute;
-	left:1vh;
-	top:55vh;
+	left:0vh;
+	top:0vh;
 	display:blue;
-	font-size:1.9vh;
+	font-size:0vh;
 	background:none;
 }
 .lea h2{
-	width:20vh;
+	width:0vh;
 	position:absolute;
-	left:17vh;
-	top:55vh;
+	left:0vh;
+	top:0vh;
 	display:blue;
-	font-size:1.9vh;
+	font-size:0vh;
 	background:none;
 }
 .play h2{
-	width:10vh;
+	width:0vh;
 	position:absolute;
-	left:30vh;
-	top:55vh;
-	font-size:1.9vh;
+	left:0vh;
+	top:0vh;
+	font-size:0vh;
 	display:blue;
 	background:none;
 }
 .ranking h2{
-	width:15vh;
+	width:0vh;
 	position:absolute;
-	left:36vh;
-	top:55vh;
-	font-size:1.9vh;
+	left:0vh;
+	top:0vh;
+	font-size:0vh;
 	display:blue;
 	background:none;
 }
 .g img{
 	width:30vh;
 	position:absolute;
-	left:9vh;
-	top:64vh;
+	left:1vh;
+	top:1vh;
 	display:white;
 	background:none;
 }
 .text h5{
 	width:40vh;
-	height:7vh;
 	position:absolute;
-	left:5vh;
-	top:70vh;
+	left:6vh;
+	top:62vh;
 	display:white;
-	font-size:2vh;
+	font-size:2.5vh;
 	background:none;
 }
 .na h3{
 	width:18vh;
 	position:absolute;
-	left:20vh;
+	left:22vh;
 	top:95vh;
 	font-size:1.5vh;
 	background:none;
 }
+nav ul li{
+	list-style:none;
+	margin:10vh 5vh;
+
+
+}
+nav ul li a{
+	text-decoration:none;
+	color:white;
+	font-size:3vh;
+	
+	
+}
+#si{
+	width:45vh;
+	height:100vh;
+	position:fixed;
+	right:-100vh;
+	top:0;
+	z-index:2;
+	background:rgba(0,0,0,0.5);
+	transition:.5s;
+	
+	
+}
+#me{
+	width:7vh;
+	position:fixed;
+	left:39vh;
+	top:3vh;
+	z-index:2;
+	color:blue;
+	cursor:pointer;
+}
+.line{
+	height:7vh;
+	width:90vh;
+	background-image:url(line.png);
+	position:absolute;
+	bottom:0;
+	left:10vh;
+	top:55vh;
+	right:-100vh;
+	z-index:10;
+	background-repeat:repeat-x;
+	animation:line 6s linear infinite;
+	
+}
+	@keyframes line{
+		100%{
+			
+			transform:translatex(-85vh);
+		}
+	}
 }
 	
