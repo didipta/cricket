@@ -29,11 +29,16 @@ body{
 .r img{
 	width:200vh;
 }
+.line{
+	position:absolute;
+	top:-100vh;
+	
+}
 .g img{
 	width:50vh;
 	position:absolute;
 	left:120vh;
-	top:35vh;
+	top:32vh;
 	display:white;
 	background:none;
 }
