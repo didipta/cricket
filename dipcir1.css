@@ -283,7 +283,7 @@ nav ul li a{
 	@keyframes line{
 		100%{
 			
-			transform:translatex(-120vh);
+			transform:translatex(-500vh);
 		}
 	}
 }
