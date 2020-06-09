@@ -228,7 +228,7 @@ nav ul li a{
 nav ul li{
 	width:30vh;
 	list-style:none;
-	margin:5vh 4vh;
+	margin:5vh 6vh;
 
 
 }
@@ -245,8 +245,8 @@ nav ul li a{
 	width:55vh;
 	height:60vh;
 	position:fixed;
-	right:-50vh;
-	top:0vh;
+	right:-100vh;
+	top:5vh;
 	z-index:2;
 	background:white;
 	transition:.5s;
