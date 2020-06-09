@@ -1,14 +1,16 @@
 <html>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
      <link rel="stylesheet" href="dipcir1.css">
-	  <body>
+	  <body id="body">
 	  
 	  <section id="ab">
    <div class="messi">
    <img src="cricket2.png">
    
    </div>
+   <div class="line">
+    </div>
    <div class="r">
    <img src="r.jpg">
    </div>
@@ -31,14 +33,38 @@
    <a href=""><h2><b> Recent Result</b></h2></a>
    </div>
    <div class="play">
-    <a href="cricketteam.html"><h2><b>Team</b></h2></a>
+   <a href="cricketteam.html"><h2><b>Team</b></h2></a>
    </div>
-    </div>
-    <div class="ranking">
+   <div class="ranking">
    <a href="https://www.icc-cricket.com/rankings/mens/team-rankings/test"><h2><b>Team Ranking</b></h2></a>
    </div>
+   <nav id="si">
+   <ul>
+    <li><a href="cricket.html"><b>Next Match</b></a></li>
+   <li><a href="#"><b>Upcoming Match</b></a></li>
+   <li><a href="#"><b>Recent Result</b></a></li>
+   <li><a href="cricketteam.htm"><b>Team</b></a></li>
+   <li><a href="https://www.icc-cricket.com/rankings/mens/team-rankings/test"><b>Team Ranking</b></a></li>
+
+	</ul>
+   </nav>
+   <img src="menu.png" id="me">
     <div class="na">
    <h3> Dipta saha</h3>
    </div>
+    <script>
+   var me= document.getElementById("me");
+   var si= document.getElementById("si");
+   si.style.right="-100vh";
+   me.onclick = function(){
+   if( si.style.right=="-100vh"){
+    si.style.right="0";
+   }
+   else{
+    si.style.right="-100vh"
+   }
+   }
+   </script>
+   
  </body>
 </html>
