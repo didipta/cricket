@@ -162,7 +162,7 @@ nav ul li a{
 	height:7vh;
 	position:absolute;
 	left:15vh;
-	top:80vh;
+	top:82vh;
 	text-align:center;
 	color:white;
 	font-size:2vh;
@@ -209,12 +209,12 @@ nav ul li a{
 }
 
 .text p{
-	width:40vh;
+	width:50vh;
 	position:absolute;
-	left:8vh;
+	left:6vh;
 	top:62vh;
 	display:white;
-	font-size:2.5vh;
+	font-size:2vh;
 	background:none;
 }
 .na h3{
