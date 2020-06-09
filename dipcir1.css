@@ -138,7 +138,7 @@ nav ul li a{
 	z-index:0;
 	cursor:pointer;
 }
-@media screen and (max-width:800px)
+@media screen and (max-width:100vh)
 
 
 {
