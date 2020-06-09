@@ -29,11 +29,6 @@ body{
 .r img{
 	width:200vh;
 }
-.line{
-	position:absolute;
-	top:-100vh;
-	
-}
 .g img{
 	width:50vh;
 	position:absolute;
@@ -138,20 +133,23 @@ nav ul li a{
 	z-index:0;
 	cursor:pointer;
 }
+.line{
+	position:absolute;
+	top:-100vh;
+	
+}
 @media screen and (max-width:100vh)
 
-
 {
-
 
 .messi img{
 	width:45vh;
 	height:55vh;
 	position:absolute;
 	left:0vh;
-	top:0vh;
+	top:5vh;
 	display:white;
-	background:white;
+	background:none;
 	border-radius:10px;
 	
 }
@@ -164,11 +162,12 @@ nav ul li a{
 	height:7vh;
 	position:absolute;
 	left:15vh;
-	top:82vh;
+	top:80vh;
 	text-align:center;
 	color:white;
 	font-size:2vh;
 	background:black;
+	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
 
@@ -208,18 +207,11 @@ nav ul li a{
 	display:blue;
 	background:none;
 }
-.g img{
-	width:30vh;
-	position:absolute;
-	left:1vh;
-	top:1vh;
-	display:white;
-	background:none;
-}
-.text h5{
+
+.text p{
 	width:40vh;
 	position:absolute;
-	left:6vh;
+	left:8vh;
 	top:62vh;
 	display:white;
 	font-size:2.5vh;
@@ -234,26 +226,29 @@ nav ul li a{
 	background:none;
 }
 nav ul li{
+	width:30vh;
 	list-style:none;
-	margin:10vh 5vh;
+	margin:5vh 2vh;
 
 
 }
 nav ul li a{
 	text-decoration:none;
-	color:white;
+	color:darkblue;
 	font-size:3vh;
+	
+	 
 	
 	
 }
 #si{
-	width:45vh;
-	height:100vh;
+	width:55vh;
+	height:60vh;
 	position:fixed;
 	right:-50vh;
-	top:0;
+	top:0vh;
 	z-index:2;
-	background:rgba(0,0,0,0.7);
+	background:white;
 	transition:.5s;
 	border-radius:15px;
 	
@@ -261,23 +256,34 @@ nav ul li a{
 #me{
 	width:7vh;
 	position:fixed;
-	left:39vh;
-	top:3vh;
+	left:40vh;
+	top:2vh;
 	z-index:2;
 	color:blue;
 	cursor:pointer;
 }
-.line{
-	width:110vh;
-	height:2vh;
+.g img{
+	width:30vh;
+	position:absolute;
+	left:1vh;
+	top:1vh;
+	display:white;
+	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 	background:none;
+	border:0.5vh solid white;
+	border-radius:20px;
+}
+.line{
+	width:45vh;
+	height:1vh;
 	position:absolute;
 	bottom:0;
 	left:5vh;
-	top:55vh;
+	top:57vh;
 	right:0;
-	z-index:10;
-	animation:line 100s linear infinite;
+	color:red;
+	z-index:100;
+	animation:line 20s linear infinite;
 	
 }
 	@keyframes line{
@@ -286,5 +292,7 @@ nav ul li a{
 			transform:translatex(-50vh);
 		}
 	}
+}
+	
 }
 	
