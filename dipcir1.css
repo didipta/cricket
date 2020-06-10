@@ -209,9 +209,9 @@ nav ul li a{
 }
 
 .text p{
-	width:40vh;
+	width:65%;
 	position:absolute;
-	left:6vh;
+	left:20%;
 	top:70vh;
 	display:white;
 	font-size:2vh;
