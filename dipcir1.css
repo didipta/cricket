@@ -138,13 +138,13 @@ nav ul li a{
 	top:-100vh;
 	
 }
-@media screen and (max-width:100vh)
+@media screen and (max-width:1200px)
 
 {
 
 .messi img{
-	width:45vh;
-	height:55vh;
+	width:100%;
+	height:55%;
 	position:absolute;
 	left:0vh;
 	top:5vh;
@@ -158,11 +158,11 @@ nav ul li a{
 	}
 	
 .next h4{
-	width:20vh;
+	width:40%;
 	height:7vh;
 	position:absolute;
-	left:15vh;
-	top:82vh;
+	left:30%;
+	top:80%;
 	text-align:center;
 	color:white;
 	font-size:2vh;
@@ -209,18 +209,18 @@ nav ul li a{
 }
 
 .text p{
-	width:45vh;
+	width:70%;
 	position:absolute;
-	left:4vh;
-	top:66vh;
+	left:9vh;
+	top:70vh;
 	display:white;
 	font-size:2vh;
 	background:none;
 }
 .na h3{
-	width:18vh;
+	width:25%;
 	position:absolute;
-	left:22vh;
+	left:45%;
 	top:95vh;
 	font-size:1.5vh;
 	background:none;
@@ -228,56 +228,59 @@ nav ul li a{
 nav ul li{
 	width:30vh;
 	list-style:none;
-	margin:6vh 7vh;
+	margin:7vh 7vh;
 
 
 }
 nav ul li a{
 	text-decoration:none;
 	color:darkblue;
-	font-size:1.8vh;
+	font-size:2vh;
 	
 	 
 	
 	
 }
 #si{
-	width:55vh;
-	height:55vh;
+	width:100%;
+	height:65%;
 	position:fixed;
-	right:-100vh;
-	top:9vh;
+	right:-300%;
+	top:0vh;
 	z-index:2;
 	background:white;
-	transition:.5s;
-	border-radius:15px;
+	transition:.7s;
 	
 }
 #me{
-	width:6vh;
+	width:13%;
 	position:fixed;
-	left:40vh;
-	top:1vh;
+	left:88%;
+	top:0vh;
+	z-index:2;
+	color:blue;
+	cursor:pointer;
 }
 .g img{
-	width:26vh;
+	width:45%;
 	position:absolute;
 	left:1vh;
 	top:1vh;
 	display:white;
 	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 	background:none;
-	border:0.3vh solid white;
-	border-radius:15px;
+	border:0.5vh solid white;
+	border-radius:20px;
 }
-.line{
-	width:45vh;
+.line {
+	width:85%;
 	height:1vh;
 	position:absolute;
 	bottom:0;
 	left:5vh;
 	top:57vh;
 	right:0;
+	font-size:5vh;
 	color:red;
 	z-index:100;
 	animation:line 20s linear infinite;
