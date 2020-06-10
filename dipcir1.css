@@ -2,12 +2,11 @@
 body{
 	margin:0vh;
 	padding:0vh;
-	font-family:san-serif;
-	background:white;
+	
 }
 
 .messi{
-	background:white;
+	background:none;
 }
 .messi img{
 	width:70vh;
@@ -23,7 +22,7 @@ body{
 }
 .r img{
 	width:205vh;
-	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
+	
 }
 .g img{
 	width:40vh;
