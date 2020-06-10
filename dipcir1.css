@@ -161,8 +161,8 @@ nav ul li a{
 	width:40%;
 	height:7vh;
 	position:absolute;
-	left:30%;
-	top:80%;
+	left:32%;
+	top:82vh;
 	text-align:center;
 	color:white;
 	font-size:2vh;
@@ -209,7 +209,7 @@ nav ul li a{
 }
 
 .text p{
-	width:70%;
+	width:40vh;
 	position:absolute;
 	left:9vh;
 	top:70vh;
@@ -273,16 +273,16 @@ nav ul li a{
 	border-radius:20px;
 }
 .line {
-	width:85%;
+	width:60%;
 	height:1vh;
 	position:absolute;
 	bottom:0;
-	left:5vh;
-	top:57vh;
+	left:10vh;
+	top:60vh;
 	right:0;
-	font-size:5vh;
+	font-size:2vh;
 	color:red;
-	z-index:100;
+	z-index:2;
 	animation:line 20s linear infinite;
 	
 }
@@ -295,4 +295,5 @@ nav ul li a{
 }
 	
 }
+	
 	
