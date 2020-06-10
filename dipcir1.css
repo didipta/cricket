@@ -211,7 +211,7 @@ nav ul li a{
 .text p{
 	width:40vh;
 	position:absolute;
-	left:9vh;
+	left:6vh;
 	top:70vh;
 	display:white;
 	font-size:2vh;
@@ -273,7 +273,7 @@ nav ul li a{
 	border-radius:20px;
 }
 .line {
-	width:60%;
+	width:100%;
 	height:1vh;
 	position:absolute;
 	bottom:0;
