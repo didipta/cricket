@@ -254,13 +254,10 @@ nav ul li a{
 	
 }
 #me{
-	width:7vh;
+	width:6vh;
 	position:fixed;
 	left:40vh;
-	top:2vh;
-	z-index:2;
-	color:blue;
-	cursor:pointer;
+	top:1vh;
 }
 .g img{
 	width:26vh;
