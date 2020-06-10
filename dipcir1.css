@@ -1,14 +1,9 @@
 
 body{
-	margin:1vh;
-	padding:1vh;
+	margin:0vh;
+	padding:0vh;
 	font-family:san-serif;
 	background:white;
-}
-#ad{
-	width:100vh;
-	height:10vh;
-	
 }
 
 .messi{
@@ -22,30 +17,34 @@ body{
 	top:16vh;
 	display:white;
 	font-size:10vh;
-	background:white;
+	background:none;
 	border-radius:10vh;
 	
 }
 .r img{
-	width:200vh;
+	width:205vh;
+	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 .g img{
-	width:50vh;
+	width:40vh;
 	position:absolute;
-	left:105vh;
+	left:111vh;
 	top:32vh;
 	display:white;
 	background:none;
+	border-radius:20vh;
+	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
-.text p{
-	width:65vh;
+.text em{
+	width:60vh;
 	height:10vh;
 	position:absolute;
-	left:98vh;
-	top:47vh;
+	left:105vh;
+	top:50vh;
 	font-size:3vh;
 	display:white;
 	background:none;
+	
 }
 .next h4{
 	width:25vh;
@@ -57,6 +56,7 @@ body{
 	text-align:center;
 	color:white;
 	background:black;
+	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
 
@@ -89,7 +89,7 @@ body{
 	background:none;
 }
 .ranking h2{
-	width:30vh;
+	width:20vh;
 	position:absolute;
 	left:150vh;
 	top:16vh;
@@ -98,11 +98,11 @@ body{
 	background:none;
 }
 .na h3{
-	width:18vh;
+	width:10vh;
 	position:absolute;
-	left:100vh;
+	left:115vh;
 	top:90vh;
-	font-size:3vh;
+	font-size:2vh;
 	background:none;
 }
 nav ul li{
@@ -208,11 +208,11 @@ nav ul li a{
 	background:none;
 }
 
-.text p{
-	width:85%;
+.text em{
+	width:75%;
 	position:absolute;
-	left:10%;
-	top:70vh;
+	left:13%;
+	top:72vh;
 	display:white;
 	font-size:2vh;
 	background:none;
@@ -273,7 +273,7 @@ nav ul li a{
 	border-radius:20px;
 }
 .line {
-	width:85%;
+	width:40%;
 	height:1vh;
 	position:absolute;
 	bottom:0;
@@ -295,5 +295,4 @@ nav ul li a{
 }
 	
 }
-	
 	
