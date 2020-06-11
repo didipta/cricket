@@ -223,7 +223,7 @@ body{
 .line1 h6{
 	width:15vw;
 	margin-left:0vw;
-	margin-top:2vw;
+	margin-top:3.5vw;
 	color:red;
 	font-size:2.5vw;
 }
@@ -270,12 +270,12 @@ body{
 .line2 h6{
 	width:15vw;
 	margin-left:0vw;
-	margin-top:2vw;
+	margin-top:3.5vw;
 	color:red;
 	font-size:2.5vw;
 }
 .line2 h3{
-	width:19vw;
+	width:22vw;
 	margin-left:7vw;
 	margin-top:9.5vw;
 	font-size:4.2vw;
@@ -316,12 +316,12 @@ body{
 .line3 h6{
 	width:15vw;
 	margin-left:0vw;
-	margin-top:2vw;
+	margin-top:3.5vw;
 	color:red;
 	font-size:2.5vw;
 }
 .line3 h3{
-	width:19vw;
+	width:22vw;
 	margin-left:7vw;
 	margin-top:9.5vw;
 	font-size:4.2vw;
@@ -362,7 +362,7 @@ body{
 .line4 h6{
 	width:15vw;
 	margin-left:0vw;
-	margin-top:2vw;
+	margin-top:3.5vw;
 	color:red;
 	font-size:2.5vw;
 }
