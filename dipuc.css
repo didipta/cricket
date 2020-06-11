@@ -204,7 +204,7 @@ body{
 	border-radius:20px;
 }	
 .line1{
-   width:93%;	
+   width:93vw;	
    height:26vw;
    position:absolute;
    left:3vw;
@@ -228,33 +228,33 @@ body{
 	color:red;
 	font-size:3vw;
 }
-.line1 h3{
+.line1 em{
 	width:25vw;
 	position:absolute;
-	left:1vw;
-	top:0vw;
-	font-size:4.2vw;
+	left:6vw;
+	top:8vw;
+	font-size:4.5vw;
 	color:white;
 }
 .line1 h4{
 	width:25vw;
 	position:absolute;
 	left:60vw;
-	top:2.5vw;
+	top:2vw;
 	font-size:4.2vw;
 	color:silver;
 }
-.line1 em{
+
+.line1 h5{
 	width:20vw;
 	position:absolute;
 	left:77vw;
-	top:2vw;
+	top:-3vw;
 	font-size:3vw;
-	color:blue;
+	color:white;
 }
-
 .line2{
-   width:93%;	
+   width:93vw;	
    height:26vw;
    position:absolute;
    left:3vw;
@@ -278,32 +278,32 @@ body{
 	color:red;
 	font-size:3vw;
 }
-.line2 h3{
+.line2 em{
 	width:25vw;
 	position:absolute;
-	left:1vw;
-	top:0vw;
-	font-size:4.2vw;
+	left:6vw;
+	top:8vw;
+	font-size:4.5vw;
 	color:white;
 }
 .line2 h4{
 	width:25vw;
 	position:absolute;
 	left:60vw;
-	top:2.5vw;
+	top:2vw;
 	font-size:4.2vw;
 	color:silver;
 }
-.line2 em{
+.line2 h5{
 	width:20vw;
 	position:absolute;
 	left:77vw;
-	top:2vw;
+	top:-3vw;
 	font-size:3vw;
-	color:blue;
+	color:white;
 }
 .line3{
-   width:93%;	
+   width:93vw;	
    height:26vw;
    position:absolute;
    left:3vw;
@@ -327,32 +327,32 @@ body{
 	color:red;
 	font-size:3vw;
 }
-.line3 h3{
+.line3 em{
 	width:25vw;
 	position:absolute;
-	left:1vw;
-	top:0vw;
-	font-size:4.2vw;
+	left:6vw;
+	top:8vw;
+	font-size:4.5vw;
 	color:white;
 }
 .line3 h4{
 	width:25vw;
 	position:absolute;
 	left:60vw;
-	top:2.5vw;
+	top:2vw;
 	font-size:4.2vw;
 	color:silver;
 }
-.line3 em{
+.line3 h5{
 	width:20vw;
 	position:absolute;
 	left:77vw;
-	top:2vw;
+	top:-3vw;
 	font-size:3vw;
-	color:blue;
+	color:white;
 }
 .line4{
-   width:93%;	
+   width:93vw;	
    height:26vw;
    position:absolute;
    left:3vw;
@@ -376,28 +376,28 @@ body{
 	color:red;
 	font-size:3vw;
 }
-.line4 h3{
+.line4 em{
 	width:25vw;
 	position:absolute;
-	left:1vw;
-	top:0vw;
-	font-size:4.2vw;
+	left:6vw;
+	top:8vw;
+	font-size:4.5vw;
 	color:white;
 }
 .line4 h4{
 	width:25vw;
 	position:absolute;
 	left:60vw;
-	top:2.5vw;
+	top:2vw;
 	font-size:4.2vw;
 	color:silver;
 }
-.line4 em{
+.line4 h5{
 	width:20vw;
 	position:absolute;
 	left:77vw;
-	top:2vw;
+	top:-3vw;
 	font-size:3vw;
-	color:blue;
+	color:white;
 }
 )
