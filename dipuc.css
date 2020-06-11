@@ -231,7 +231,7 @@ body{
 .line1 h3{
 	width:30%;
 	margin-left:10%;
-	margin-top:10%;
+	margin-top:11%;
 	font-size:2vh;
 	color:white;
 }
@@ -239,7 +239,7 @@ body{
 	width:30%;
 	position:absolute;
 	left:55%;
-	top:3%;
+	top:5%;
 	font-size:2vh;
 	color:white;
 }
@@ -278,17 +278,17 @@ body{
 	font-size:2vh;
 }
 .line2 h3{
-	width:10%;
+	width:30%;
 	margin-left:10%;
-	margin-top:10%;
+	margin-top:11%;
 	font-size:2vh;
 	color:white;
 }
 .line2 h4{
-	width:10%;
+	width:30%;
 	position:absolute;
 	left:55%;
-	top:3%;
+	top:5%;
 	font-size:2vh;
 	color:white;
 }
@@ -326,17 +326,17 @@ body{
 	font-size:2vh;
 }
 .line3 h3{
-	width:10%;
+	width:30%;
 	margin-left:10%;
-	margin-top:10%;
+	margin-top:11%;
 	font-size:2vh;
 	color:white;
 }
 .line3 h4{
-	width:10%;
+	width:30%;
 	position:absolute;
 	left:55%;
-	top:3%;
+	top:5%;
 	font-size:2vh;
 	color:white;
 }
@@ -374,9 +374,9 @@ body{
 	font-size:2vh;
 }
 .line4 h3{
-	width:10%;
+	width:30%;
 	margin-left:10%;
-	margin-top:10%;
+	margin-top:11%;
 	font-size:2vh;
 	color:white;
 }
@@ -384,7 +384,7 @@ body{
 	width:10%;
 	position:absolute;
 	left:55%;
-	top:3%;
+	top:5%;
 	font-size:2vh;
 	color:white;
 }
