@@ -229,14 +229,14 @@ body{
 	font-size:2vh;
 }
 .line1 h3{
-	width:10%;
+	width:30%;
 	margin-left:10%;
 	margin-top:10%;
 	font-size:2vh;
 	color:white;
 }
 .line1 h4{
-	width:10%;
+	width:30%;
 	position:absolute;
 	left:55%;
 	top:3%;
@@ -244,7 +244,7 @@ body{
 	color:white;
 }
 .line1 em{
-	width:10%;
+	width:20%;
 	position:absolute;
 	left:85%;
 	top:5%;
