@@ -221,7 +221,7 @@ body{
 	font-size:2vh;
 }
 .line1 h6{
-	width:10%;
+	width:12%;
 	position:absolute;
 	left:12%;
 	top:50%;
@@ -229,17 +229,17 @@ body{
 	font-size:2vh;
 }
 .line1 h3{
-	width:30%;
+	width:15%;
 	margin-left:10%;
-	margin-top:11%;
+	margin-top:12%;
 	font-size:2vh;
 	color:white;
 }
 .line1 h4{
-	width:30%;
+	width:10%;
 	position:absolute;
 	left:55%;
-	top:5%;
+	top:6%;
 	font-size:2vh;
 	color:white;
 }
@@ -270,7 +270,7 @@ body{
 	font-size:2vh;
 }
 .line2 h6{
-	width:10%;
+	width:12%;
 	position:absolute;
 	left:12%;
 	top:50%;
@@ -278,17 +278,17 @@ body{
 	font-size:2vh;
 }
 .line2 h3{
-	width:30%;
+	width:15%;
 	margin-left:10%;
-	margin-top:11%;
+	margin-top:12%;
 	font-size:2vh;
 	color:white;
 }
 .line2 h4{
-	width:30%;
+	width:10%;
 	position:absolute;
 	left:55%;
-	top:5%;
+	top:6%;
 	font-size:2vh;
 	color:white;
 }
