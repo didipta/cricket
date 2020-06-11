@@ -221,7 +221,7 @@ body{
 	font-size:2vh;
 }
 .line1 h6{
-	width:12%;
+	width:15%;
 	position:absolute;
 	left:12%;
 	top:50%;
@@ -229,14 +229,14 @@ body{
 	font-size:2vh;
 }
 .line1 h3{
-	width:17%;
+	width:20%;
 	margin-left:10%;
-	margin-top:11%;
+	margin-top:9%;
 	font-size:2vh;
 	color:white;
 }
 .line1 h4{
-	width:17%;
+	width:30%;
 	position:absolute;
 	left:55%;
 	top:5%;
@@ -270,7 +270,7 @@ body{
 	font-size:2vh;
 }
 .line2 h6{
-	width:12%;
+	width:15%;
 	position:absolute;
 	left:12%;
 	top:50%;
@@ -278,14 +278,14 @@ body{
 	font-size:2vh;
 }
 .line2 h3{
-	width:17%;
+	width:20%;
 	margin-left:10%;
-	margin-top:11%;
+	margin-top:9%;
 	font-size:2vh;
 	color:white;
 }
 .line2 h4{
-	width:17%;
+	width:30%;
 	position:absolute;
 	left:55%;
 	top:5%;
@@ -318,7 +318,7 @@ body{
 	font-size:2vh;
 }
 .line3 h6{
-	width:10%;
+	width:15%;
 	position:absolute;
 	left:12%;
 	top:50%;
@@ -328,7 +328,7 @@ body{
 .line3 h3{
 	width:17%;
 	margin-left:10%;
-	margin-top:11%;
+	margin-top:9%;
 	font-size:2vh;
 	color:white;
 }
@@ -366,7 +366,7 @@ body{
 	font-size:2vh;
 }
 .line4 h6{
-	width:10%;
+	width:15%;
 	position:absolute;
 	left:12%;
 	top:50%;
@@ -376,12 +376,12 @@ body{
 .line4 h3{
 	width:17%;
 	margin-left:10%;
-	margin-top:10%;
+	margin-top:9%;
 	font-size:2vh;
 	color:white;
 }
 .line4 h4{
-	width:17%;
+	width:30%;
 	position:absolute;
 	left:55%;
 	top:5%;
