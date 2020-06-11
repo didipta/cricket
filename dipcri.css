@@ -735,26 +735,26 @@ nav ul li a{
 	0%{
 		left:0vh;
 	}
-	12%{
+	14%{
 		left:0vw;
 	}
-	25%{
+	28%{
 		left:-96vw;
 	}
-	38%{
+	42%{
 		left:-96vw;
 	}
-	53%{
+	56%{
 		left:-192vw;
 	}
-	68%{
+	70%{
 		left:-192vw;
 	}
-	78%{
-		left:-284vw;
+	84%{
+		left:-290vw;
 	}
 	100%{
-		left:-284vw;
+		left:-290vw;
 	}
 	
 	
