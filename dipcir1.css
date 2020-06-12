@@ -54,7 +54,7 @@ body{
 	font-size:2vh;
 	text-align:center;
 	color:white;
-	background-image:linear-gradient(to right,black,black,black,blue);
+	background-image:linear-gradient(to right,green,black,black,lime);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
@@ -164,7 +164,7 @@ nav ul li a{
 	text-align:center;
 	color:white;
 	font-size:3.5vw;
-	background-image:linear-gradient(to right,black,black,black,blue);
+	background-image:linear-gradient(to right,green,black,black,lime);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
