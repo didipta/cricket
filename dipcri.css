@@ -359,12 +359,7 @@ nav ul li a{
 	border:0.5vh solid white;
 	border-radius:20px;
 }	
-.scored img{
-	width:100vw;
-	position:absolute;
-	left:0vw;
-	top:97vw;
-}
+
 .match{
 	width:30vw;
 	position:absolute;
@@ -396,7 +391,7 @@ nav ul li a{
 	width:30vw;
 	position:absolute;
 	left:0vw;
-	top:170vw;
+	top:168vw;
  background:white;
 }
 .match3 h4{
@@ -412,10 +407,10 @@ nav ul li a{
 	
 }
 .match3 h3{
-	width:60vw;
+	width:50vw;
 	position:absolute;
-	left:24vw;
-	top:-7vw;
+	left:25vw;
+	top:-5vw;
 	color:silver;
 	font-size:4vw;
 }
@@ -442,7 +437,7 @@ nav ul li a{
 	width:20vw;
 	position:absolute;
 	left:67vw;
-	top:170vw;
+	top:168vw;
  background:white;
 }
 .match4 h4{
@@ -741,5 +736,7 @@ nav ul li a{
 	
 	
 }
+
+
 
 }
