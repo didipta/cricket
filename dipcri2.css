@@ -13,7 +13,7 @@ h1{
  top:8vh;
  font-size:3vh;
  text-align:center;
- background:rgba(0,0,0,0.6);
+ background-image:linear-gradient(to right,blue,black,black,red);
 }
 .g img{
 	width:40vh;
@@ -41,7 +41,7 @@ img{
 	width:80%;
 	border-radius:3vh;
 }
-@media screen and (max-width:1200px)
+@media screen and (max-width:100vh)
 {
 body{
 	margin:11vw 1vw;
@@ -51,13 +51,14 @@ body{
 }
 	h1{
 	width:100vw;
+	height:5vw;
 	color:white;
  position:absolute;
- left:0vw;
+ left:0vh;
  top:10vw;
- font-size:5vw;
+ font-size:4vw;
  text-align:center;
- background:rgba(0,0,0,0.6);
+ background-image:linear-gradient(to right,blue,black,black,red);
 }
 .g img{
 	width:45vw;
