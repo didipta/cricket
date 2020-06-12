@@ -298,6 +298,13 @@ nav ul li a{
 	left:0vw;
 	top:12vw;
 }
+.scored img{
+	width:100vw;
+	position:absolute;
+	left:0vw;
+	top:97vw;
+}
+
 .runningmatch{
    width:100vw;	
    height:28vw;
