@@ -90,14 +90,14 @@ body{
 .ranking h2{
 	width:20vh;
 	position:absolute;
-	left:155vh;
+	left:150vh;
 	top:16vh;
 	font-size:3vh;
 	display:blue;
 	background:none;
 }
 .na h3{
-	width:22vh;
+	width:20vh;
 	position:absolute;
 	left:115vh;
 	top:90vh;
@@ -137,16 +137,15 @@ nav ul li a{
 	top:-100vh;
 	
 }
-@media screen and (max-width:1200px)
+@media screen and (max-width:100vh)
 
 {
 
 .messi img{
-	width:100%;
-	height:55%;
+	width:100vw;
 	position:absolute;
-	left:0vh;
-	top:5vh;
+	left:0vw;
+	top:-7vw;
 	display:white;
 	background:none;
 	border-radius:10px;
@@ -157,14 +156,14 @@ nav ul li a{
 	}
 	
 .next h4{
-	width:40%;
-	height:7vh;
+	width:45vw;
+	height:12vw;
 	position:absolute;
-	left:31%;
-	top:82vh;
+	left:28vw;
+	top:140vw;
 	text-align:center;
 	color:white;
-	font-size:2vh;
+	font-size:3vw;
 	background:black;
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
@@ -208,43 +207,42 @@ nav ul li a{
 }
 
 .text em{
-	width:75%;
+	width:60vw;
 	position:absolute;
-	left:13%;
-	top:72vh;
+	left:17vw;
+	top:126vw;
 	display:white;
-	font-size:2vh;
+	font-size:3vw;
 	background:none;
 }
 .na h3{
-	width:25%;
+	width:25vw;
 	position:absolute;
-	left:42%;
-	top:95vh;
-	font-size:1.5vh;
+	left:45vw;
+	top:160vw;
+	font-size:2.5vw;
 	background:none;
 }
 nav ul li{
-	width:30vh;
+	width:50vw;
 	list-style:none;
-	margin:7vh 7vh;
+	margin:10vw 7vw;
 
 
 }
 nav ul li a{
 	text-decoration:none;
 	color:darkblue;
-	font-size:2vh;
-	
+	font-size:3vw;
 	 
 	
 	
 }
 #si{
-	width:100%;
-	height:60%;
+	width:100vw;
+	height:100vw;
 	position:fixed;
-	right:-500%;
+	right:-500vw;
 	top:0vh;
 	z-index:2;
 	background:white;
@@ -252,46 +250,53 @@ nav ul li a{
 	
 }
 #me{
-	width:13%;
+	width:13vw;
 	position:fixed;
-	left:88%;
+	left:85vw;
 	top:0vh;
 	z-index:2;
 	color:blue;
 	cursor:pointer;
 }
 .g img{
-	width:45%;
+	width:45vw;
 	position:absolute;
-	left:1vh;
-	top:1vh;
+	left:1vw;
+	top:1vw;
 	display:white;
 	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 	background:none;
-	border:0.5vh solid white;
-	border-radius:20px;
+	border:.7vw solid white;
+	border-radius:20vw;
 }
-.line {
-	width:85%;
-	height:1vh;
+.line{
+	overflow:hidden;
+	height:20vw;
+	width:90vw;
 	position:absolute;
-	bottom:0;
-	left:5vh;
-	top:60vh;
-	right:0;
-	font-size:2vh;
-	color:red;
-	z-index:2;
-	animation:line 20s linear infinite;
-	
+	left:10vw;
+	top:105vw;
+}
+
+.line p{
+	float:left;
+	width:90vw;
+	position:relative;
+	color:blue;
+	left:0vh;
+	animation: 10s line infinite;
 }
 	@keyframes line{
-		100%{
+		0%{
 			
-			transform:translatex(-50vh);
+			left:0vw;
 		}
+		100%{
+			left:-90vw;
+		}
+		
 	}
-}
+
 	
 }
 	
