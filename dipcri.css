@@ -733,9 +733,9 @@ nav ul li a{
 }
 @keyframes line{
 	0%{
-		left:0vh;
+		left:0vw;
 	}
-	14%{
+	20%{
 		left:0vw;
 	}
 	28%{
