@@ -290,7 +290,7 @@ nav ul li a{
 .g img{
 	width:0;
 }
-@media screen and (max-width:1200px)
+@media screen and (max-width:100vh)
 {
 	.field img{
 	width:100vw;
