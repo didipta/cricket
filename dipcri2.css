@@ -41,49 +41,49 @@ img{
 	width:80%;
 	border-radius:3vh;
 }
-@media screen and (max-width:1200px)
+@media screen and (max-width:100vh)
 {
 body{
-	margin:8vh 1vh;
-	padding:3vh;
+	margin:11vw 1vw;
+	padding:5vw;
 	font-family:san-serif;
 	background:white;
 }
 	h1{
-	width:100%;
+	width:100vw;
 	color:white;
  position:absolute;
- left:0vh;
- top:7vh;
- font-size:3vh;
+ left:0vw;
+ top:10vw;
+ font-size:5vw;
  text-align:center;
  background:rgba(0,0,0,0.6);
 }
 .g img{
-	width:45%;
+	width:45vw;
 	position:absolute;
-	left:1vh;
-	top:1vh;
+	left:1vw;
+	top:1vw;
 	display:white;
 	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 	background:none;
-	border:0.5vh solid white;
+	border:0.6vw solid white;
 	border-radius:20px;
 }
 main{
 	margin-left:0vh;
-	margin-top:3vh;
+	margin-top:5vw;
 }
 .img{
 	display:block;
 	float:left;
-	width:32%;
-	padding:2vh;
-	padding-left:2vh;
+	width:30vw;
+	padding:2vw;
+	padding-left:2vw;
 
 }
 img{
-	width:100%;
-	border-radius:3vh;
+	width:30vw;
+	border-radius:4vw;
 }
 }
