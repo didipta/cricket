@@ -157,13 +157,13 @@ nav ul li a{
 	
 .next h4{
 	width:45vw;
-	height:12vw;
+	height:7vh;
 	position:absolute;
 	left:28vw;
 	top:85vh;
 	text-align:center;
 	color:white;
-	font-size:3vw;
+	font-size:3.5vw;
 	background-image:linear-gradient(to right,black,black,black,blue);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
@@ -240,7 +240,7 @@ nav ul li a{
 }
 #si{
 	width:100vw;
-	height:100vw;
+	height:65vh;
 	position:fixed;
 	right:-500vw;
 	top:0vh;
