@@ -54,7 +54,7 @@ body{
 	font-size:2vh;
 	text-align:center;
 	color:white;
-	background:black;
+	background-image:linear-gradient(to right,black,black,black,blue);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
@@ -137,7 +137,7 @@ nav ul li a{
 	top:-100vh;
 	
 }
-@media screen and (max-width:100vh)
+@media screen and (max-width:1200px)
 
 {
 
@@ -160,11 +160,11 @@ nav ul li a{
 	height:12vw;
 	position:absolute;
 	left:28vw;
-	top:140vw;
+	top:85vh;
 	text-align:center;
 	color:white;
 	font-size:3vw;
-	background:black;
+	background-image:linear-gradient(to right,black,black,black,blue);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
@@ -207,19 +207,19 @@ nav ul li a{
 }
 
 .text em{
-	width:60vw;
+	width:65vw;
 	position:absolute;
-	left:17vw;
-	top:126vw;
+	left:18vw;
+	top:77vh;
 	display:white;
-	font-size:3vw;
+	font-size:3.5vw;
 	background:none;
 }
 .na h3{
 	width:25vw;
 	position:absolute;
-	left:45vw;
-	top:160vw;
+	left:43vw;
+	top:95vh;
 	font-size:2.5vw;
 	background:none;
 }
@@ -271,28 +271,30 @@ nav ul li a{
 }
 .line{
 	overflow:hidden;
-	height:20vw;
-	width:90vw;
+	height:10vw;
+	width:100vw;
 	position:absolute;
-	left:10vw;
-	top:105vw;
+	left:0vw;
+	top:68vh;
+	font-size:3vw;
+	background-image:linear-gradient(to right,blue,blue,blue,silver);
 }
 
 .line p{
 	float:left;
-	width:90vw;
+	width:80vw;
 	position:relative;
-	color:blue;
-	left:0vh;
+	color:silver;
+	left:50vw;
 	animation: 10s line infinite;
 }
 	@keyframes line{
 		0%{
 			
-			left:0vw;
+			left:90vw;
 		}
 		100%{
-			left:-90vw;
+			left:-100vw;
 		}
 		
 	}
