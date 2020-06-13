@@ -54,7 +54,7 @@ body{
 	font-size:2vh;
 	text-align:center;
 	color:white;
-	background-image:linear-gradient(to right,green,black,black,lime);
+	background-image:linear-gradient(to right,black,black,black,blue);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
@@ -137,7 +137,7 @@ nav ul li a{
 	top:-100vh;
 	
 }
-@media screen and (max-width:100vh)
+@media screen and (max-width:120vh)
 
 {
 
@@ -157,17 +157,22 @@ nav ul li a{
 	
 .next h4{
 	width:45vw;
-	height:7vh;
+	height:12vw;
 	position:absolute;
 	left:28vw;
-	top:85vh;
+	top:82vh;
 	text-align:center;
 	color:white;
 	font-size:3.5vw;
 	background-image:linear-gradient(to right,green,black,black,lime);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
+	display:lnline-block;
 }
 
+.next:hover h4{
+	transform:scale(.3);
+	color:white;
+}
 
 .fix h2{
 	width:0vh;
@@ -210,7 +215,7 @@ nav ul li a{
 	width:65vw;
 	position:absolute;
 	left:18vw;
-	top:77vh;
+	top:74vh;
 	display:white;
 	font-size:3.5vw;
 	background:none;
@@ -275,9 +280,9 @@ nav ul li a{
 	width:100vw;
 	position:absolute;
 	left:0vw;
-	top:68vh;
+	top:63vh;
 	font-size:3vw;
-	background-image:linear-gradient(to right,blue,blue,blue,silver);
+	background-image:linear-gradient(to right,silver,blue,blue,silver);
 }
 
 .line p{
@@ -299,6 +304,6 @@ nav ul li a{
 		
 	}
 
-	
+	}
 }
 	
