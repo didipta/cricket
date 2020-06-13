@@ -324,12 +324,13 @@ nav ul li a{
 	font-size:3vw;
 }
 .runningmatch em{
-	width:30vw;
+	width:40vw;
 	position:absolute;
 	left:4vw;
-	top:7vw;
+	top:6vw;
 	font-size:6vw;
 	color:white;
+	
 }
 .runningmatch h4{
 	width:40vw;
@@ -568,7 +569,7 @@ nav ul li a{
 	font-size:3vw;
 }
 .line2 em{
-	width:32.5vw;
+	width:40vw;
 	position:absolute;
 	left:4vw;
 	top:7vw;
@@ -618,7 +619,7 @@ nav ul li a{
 	font-size:3vw;
 }
 .line3 em{
-	width:32.5vw;
+	width:40vw;
 	position:absolute;
 	left:4vw;
 	top:7vw;
