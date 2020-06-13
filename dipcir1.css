@@ -274,6 +274,17 @@ nav ul li a{
 	border:.7vw solid white;
 	border-radius:20vw;
 }
+.clock{
+	width:30vw;
+	position:absolute;
+	left:3vw;
+	top:12vw;
+	color:white;
+	text-align:center;
+	background-image:linear-gradient(to right,blue,black,black,black,black,blue);
+	border:.7vw solid black;
+	border-radius:20vw;
+}
 .line{
 	overflow:hidden;
 	height:10vw;
