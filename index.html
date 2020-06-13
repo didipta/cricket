@@ -71,7 +71,43 @@
    }
    }
    </script>
- 
+ <div class="clock">
+		  <span id="hour">00</span> :
+		  <span id="minute"> 00</span> :
+		  <span id="second"> 00</span>
+           </div>
+		   <script type="text/javascript">
+		   function clock()
+		   {
+		      
+		   
+		   
+		   var hours=document.getElementById('hour');
+		   var minutes=document.getElementById('minute');
+		   var seconds=document.getElementById('second');
+		   
+		  
+		   
+		   var h=new Date().getHours();
+		   var m=new Date().getMinutes();
+		   var s=new Date().getSeconds();
+		   
+		   if(h>12){
+		  h= h - 12;
+		  }
+		   if(h ==0){
+		   h =12;
+		   }
+		   
+		   hour.innerHTML=h;
+		   minute.innerHTML=m;
+		   second.innerHTML=s;
+		   
+		
+		   
+		   }
+		   var interval=setInterval(clock,00);
+		   </script>
  </body>
  
 </html>
