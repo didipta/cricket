@@ -324,7 +324,7 @@ nav ul li a{
 	font-size:3vw;
 }
 .runningmatch em{
-	width:30vw;
+	width:35vw;
 	position:absolute;
 	left:4vw;
 	top:7vw;
@@ -496,7 +496,7 @@ nav ul li a{
    width:95vw;	
    height:28vw;
    position:absolute;
-   left:0vw;
+   left:1vw;
    top:15vw;
    border-radius:1vw;
    background-image:linear-gradient(to right,blue,black,black,lime);
@@ -546,7 +546,7 @@ nav ul li a{
    width:95vw;	
    height:28vw;
    position:absolute;
-   left:96vw;
+   left:98vw;
    top:15vw;
    border-radius:1vw;
     background-image:linear-gradient(to right,blue,black,black,lime);
@@ -568,7 +568,7 @@ nav ul li a{
 	font-size:3vw;
 }
 .line2 em{
-	width:30vw;
+	width:35vw;
 	position:absolute;
 	left:4vw;
 	top:7vw;
@@ -596,7 +596,7 @@ nav ul li a{
    width:95vw;	
    height:28vw;
    position:absolute;
-   left:192vw;
+   left:195vw;
    top:15vw;
    border-radius:1vw;
    background-image:linear-gradient(to right,blue,black,black,lime);
@@ -618,7 +618,7 @@ nav ul li a{
 	font-size:3vw;
 }
 .line3 em{
-	width:30vw;
+	width:35vw;
 	position:absolute;
 	left:4vw;
 	top:7vw;
@@ -646,7 +646,7 @@ nav ul li a{
    width:95vw;	
    height:28vw;
    position:absolute;
-   left:288vw;
+   left:292vw;
    top:15vw;
    border-radius:1vw;
   background-image:linear-gradient(to right,blue,black,black,lime);
@@ -722,16 +722,16 @@ nav ul li a{
 		left:-96vw;
 	}
 	60%{
-		left:-192vw;
+		left:-193vw;
 	}
 	75%{
-		left:-192vw;
+		left:-193vw;
 	}
 	85%{
-		left:-286vw;
+		left:-290vw;
 	}
 	100%{
-		left:-286vw;
+		left:-290vw;
 	}
 	
 	
