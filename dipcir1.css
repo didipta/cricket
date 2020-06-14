@@ -319,6 +319,7 @@ nav ul li a{
 }
 .clock{
 	width:30vw;
+        height:3vw; 
 	position:absolute;
 	left:3vw;
 	top:12vw;
