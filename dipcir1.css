@@ -141,7 +141,6 @@ nav ul li a{
 	position:absolute;
 	left:100vh;
 	top:8vh;
-	text-align:center;
 	font-size:2vh;
 	border-radius:1vh;
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
@@ -338,6 +337,8 @@ nav ul li a{
 	left:0vw;
 	top:66vh;
 	font-size:3vw;
+        box-shadow:none;
+        border-radius:0vw; 
 	background-image:linear-gradient(to right,silver,blue,blue,silver);
 }
 
