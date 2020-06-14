@@ -21,7 +21,9 @@ body{
 	
 }
 .r img{
-	width:205vh;
+	width:210vh;
+	position:center;
+
 	
 }
 .g img{
@@ -54,7 +56,7 @@ body{
 	font-size:2vh;
 	text-align:center;
 	color:white;
-	background-image:linear-gradient(to right,black,black,black,blue);
+	background-image:linear-gradient(to right,green,black,black,lime);
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 }
 
@@ -133,9 +135,49 @@ nav ul li a{
 	cursor:pointer;
 }
 .line{
+	overflow:hidden;
+	height:6vh;
+	width:70vh;
 	position:absolute;
-	top:-100vh;
-	
+	left:100vh;
+	top:8vh;
+	text-align:center;
+	font-size:2vh;
+	border-radius:1vh;
+	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
+	background-image:linear-gradient(to right,black,black,#084501,green);
+}
+
+.line p{
+	float:left;
+	width:100vh;
+	position:relative;
+	color:#CAC9C3;
+	left:50vh;
+	animation: 15s line infinite;
+}
+	@keyframes line{
+		0%{
+			
+			left:50vh;
+		}
+		100%{
+			left:-100vh;
+		}
+		
+	}
+.clock{
+	width:20vh;
+	height:4vh;
+	position:absolute;
+	left:13vh;
+	top:8vh;
+	color:black;
+	font-size:3vh;
+	text-align:center;
+	background-image:linear-gradient(to right,red,silver,red);
+	border:.7vh solid white;
+	border-radius:1vh;
 }
 @media screen and (max-width:120vh)
 
@@ -160,7 +202,7 @@ nav ul li a{
 	height:12vw;
 	position:absolute;
 	left:28vw;
-	top:84vh;
+	top:82vh;
 	text-align:center;
 	color:white;
 	font-size:3.5vw;
@@ -217,6 +259,7 @@ nav ul li a{
 	left:18vw;
 	top:74vh;
 	display:white;
+	text-align:center;
 	font-size:3.5vw;
 	background:none;
 }
@@ -291,7 +334,7 @@ nav ul li a{
 	width:100vw;
 	position:absolute;
 	left:0vw;
-	top:65vh;
+	top:63vh;
 	font-size:3vw;
 	background-image:linear-gradient(to right,silver,blue,blue,silver);
 }
@@ -316,5 +359,5 @@ nav ul li a{
 	}
 
 	}
-}
+
 	
