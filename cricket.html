@@ -73,15 +73,36 @@
 	  <div class="show">
 	  <figure>
 	  
-	  <div class="line1">
-      <p>ODI 1 of 3 (aus 1-0)</p>	  
+	  	  <div class="line1">
+	   <a href="index.html">
+      <p>T20 1 of 3 </p>	  
        <em><b>Australia<br>
-           NewZealand</b></em>
-         <h6>cancelled</h6>	
+           India</b></em>
+         <h6>starts 10:0 Am</h6>	
          <h4>000/00(00.0)<br>
              000/00(00.0)
              </h4>
-          <h5> 3/15 </h5>			 
+			 
+          <h5> 10/11/20 </h5>
+		  <h2 id="counting"></h2>
+    <script>
+var countDownDate = new Date("Nov 10, 2020 10:00:00").getTime();
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countDownDate - now;
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  document.getElementById("counting").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("counting").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+</a>		  
        </div>
 	 <div class="line2">
       <p>ODI 2 of 3</p>	  
