@@ -21,8 +21,7 @@ body{
 	
 }
 .r img{
-	width:100vw;
-	position:center;
+	width:210vh;
 
 	
 }
@@ -139,14 +138,12 @@ nav ul li a{
 	height:6vh;
 	width:70vh;
 	position:absolute;
-	left:100vh;
-	top:8vh;
+	left:20vh;
+	top:90vh;
 	text-align:center;
 	font-size:2vh;
-	border-radius:1vh;
-	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
-	background-image:linear-gradient(to right,black,black,#084501,green);
-}
+	background:rgba(0,0,0,0.4);
+	}
 
 .line p{
 	float:left;
@@ -154,6 +151,7 @@ nav ul li a{
 	position:relative;
 	color:#CAC9C3;
 	left:50vh;
+	text-align:center;
 	animation: 15s line infinite;
 }
 	@keyframes line{
@@ -170,7 +168,7 @@ nav ul li a{
 	width:20vh;
 	height:4vh;
 	position:absolute;
-	left:13vh;
+	left:170vh;
 	top:8vh;
 	color:black;
 	font-size:3vh;
