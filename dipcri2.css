@@ -41,7 +41,7 @@ img{
 	width:80%;
 	border-radius:3vh;
 }
-@media screen and (max-width:100vh)
+@media screen and (orientation: portrait)
 {
 body{
 	margin:11vw 1vw;
