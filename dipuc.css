@@ -225,7 +225,7 @@ h1{
 	font-size:2vh;
 	color:white;
 }
-@media screen and (max-width:100vh)
+@media screen and (orientation: portrait)
 {
 	h1{
 	width:100vw;
