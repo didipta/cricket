@@ -39,6 +39,7 @@ nav ul li a{
 	color:blue;
 	font-size:50vh italic;
 }
+
 .search input{
 	width:25vh;
 	height:5vh;
@@ -174,7 +175,7 @@ nav ul li a{
 	
 }
 .match3 h3{
-	width:50vh;
+	width:30vh;
 	position:absolute;
 	left:12vh;
 	top:-7vh;
