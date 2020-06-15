@@ -4,12 +4,20 @@
 	font-family:san-serif;
 }
 .field img{
-	width:108vh;
+	width:100vh;
 	position:absolute;
-	left:51vh;
+	left:55vh;
 	top:0vh;
 }
-
+#select{
+	width:10vh;
+	position:fixed;
+	left:190vh;
+	top:0vh;
+	z-index:2;
+	color:blue;
+	cursor:pointer;
+}
 #si{
 	width:138vh;
 	height:100vh;
@@ -28,7 +36,7 @@ nav ul li{
 }
 nav ul li a{
 	text-decoration:none;
-	color:white;
+	color:blue;
 	font-size:50vh italic;
 }
 .search input{
@@ -42,30 +50,199 @@ nav ul li a{
 	border:0.5vh solid blue;
 	
 }
+.runningmatch{
+    width:100vh;	
+   height:20vh;
+   position:absolute;
+   left:55vh;
+   top:37vh;
+   border-radius:0vh;
+    background-image:linear-gradient(to right,blue,black,black,lime);
+}
+.runningmatch p{
+	width:50vh;
+	position:absolute;
+	left:4vh;
+	top:1vh;
+	color:white;
+	font-size:2vh;
+}
+.runningmatch h6{
+	width:30vh;
+	position:absolute;
+	left:5vh;
+	top:17vh;
+	color:lime;
+	font-size:2vh;
+}
+.runningmatch em{
+	
+	width:15vh;
+	position:absolute;
+	left:6vh;
+	top:5vh;
+	font-size:5vh;
+	color:white;
+}
+.runningmatch h4{
+	width:25vh;
+	position:absolute;
+	left:60vh;
+	top:5vh;
+	font-size:5vh;
+	color:silver;
+}
 
-
+.runningmatch h5{
+	width:20vh;
+	position:absolute;
+	left:90vh;
+	top:1vh;
+	font-size:2vh;
+	color:white;
+}
+.match{
+	width:30vh;
+	position:absolute;
+	left:155vh;
+	top:20vh;
+    background:none;
+}
+.match h4{
+	width:50vh;
+	margin:2vh 2vh;
+	font-size:2vh;
+	
+	
+	
+}
+.match h6{
+	font-size:2vh;
+	margin-left:2vh;
+	margin-top:2vh;
+	
+}
+.match h3{
+	width:30vh;
+	position:absolute;
+	left:13vh;
+	top:-7vh;
+	color:silver;
+	font-size:3vh;
+	background:none;
+}
+.match2{
+	width:30vh;
+	position:absolute;
+	left:180vh;
+	top:20vh;
+    background:none;
+}
+.match2 h4{
+	width:20vh;
+	margin:2vh 7vh;
+	font-size:2vh;
+	background:none;
+	
+	
+}
+.match2 h6{
+	width:15vh;
+	font-size:2vh;
+	margin-left:7vh;
+	margin-top:2vh;
+	background:none;
+}
+.match3{
+	width:30vh;
+	position:absolute;
+	left:1vh;
+	top:20vh;
+    background:none;
+}
+.match3 h4{
+	width:50vh;
+	margin:2vh 2vh;
+	font-size:2vh;
+	
+	
+}
+.match3 h6{
+	font-size:2vh;
+	margin-left:2vh;
+	margin-top:2vh;
+	
+}
+.match3 h3{
+	width:30vh;
+	position:absolute;
+	left:12vh;
+	top:-7vh;
+	color:silver;
+	font-size:3vh;
+	background:none;
+}
+.match4{
+	width:30vh;
+	position:absolute;
+	left:27vh;
+	top:20vh;
+    background:none;
+}
+.match4 h4{
+	width:20vh;
+	margin:2vh 7vh;
+	font-size:2vh;
+	background:none;
+	
+	
+}
+.match4 h6{
+	width:15vh;
+	font-size:2vh;
+	margin-left:7vh;
+	margin-top:2vh;
+	background:none;
+}
+.momatch em{
+	width:40vh;
+	position:absolute;
+	left:90vh;
+	top:80vh;
+	text-align:center;
+	color:silver;
+	font-size:3vh;
+}
+#counting{
+	width:50vh;
+	position:absolute;
+	left:40vh;
+	top:1vh;
+	color:white;
+	font-size:2vh;
+}
 .line1{
-   width:50vh;	
-   height:15vh;
+   width:100vh;	
+   height:20vh;
    position:absolute;
    left:0vh;
    top:15vh;
-   border-radius:1vh;
-   background:rgba(0,0,0,0.5);
+   border-radius:0vh;
+    background-image:linear-gradient(to right,blue,black,black,lime);
 }
 .line1 p{
 	width:50vh;
 	position:absolute;
-	left:5vh;
-	top:2vh;
+	left:4vh;
+	top:1vh;
 	color:white;
 	font-size:2vh;
 }
 .line1 h6{
-	width:20vh;
+	width:30vh;
 	position:absolute;
-	left:8vh;
-	top:12vh;
+	left:5vh;
+	top:17vh;
 	color:red;
 	font-size:2vh;
 }
@@ -74,48 +251,48 @@ nav ul li a{
 	position:absolute;
 	left:6vh;
 	top:5vh;
-	font-size:3vh;
+	font-size:5vh;
 	color:white;
 }
 .line1 h4{
 	width:25vh;
 	position:absolute;
-	left:30vh;
-	top:4.7vh;
-	font-size:3vh;
+	left:60vh;
+	top:5vh;
+	font-size:5vh;
 	color:silver;
 }
 
 .line1 h5{
 	width:20vh;
 	position:absolute;
-	left:41vh;
+	left:90vh;
 	top:1vh;
-	font-size:1.5vh;
+	font-size:2vh;
 	color:white;
 }
 .line2{
-   width:50vh;	
-   height:15vh;
+   width:100vh;	
+   height:20vh;
    position:absolute;
-   left:52vh;
+   left:101vh;
    top:15vh;
-   border-radius:1vh;
-   background:rgba(0,0,0,0.5);
+   border-radius:0vh;
+    background-image:linear-gradient(to right,blue,black,black,lime);
 }
 .line2 p{
 	width:50vh;
 	position:absolute;
-	left:5vh;
-	top:2vh;
+	left:4vh;
+	top:1vh;
 	color:white;
 	font-size:2vh;
 }
 .line2 h6{
-	width:20vh;
+	width:30vh;
 	position:absolute;
-	left:8vh;
-	top:12vh;
+	left:5vh;
+	top:17vh;
 	color:red;
 	font-size:2vh;
 }
@@ -124,48 +301,48 @@ nav ul li a{
 	position:absolute;
 	left:6vh;
 	top:5vh;
-	font-size:3vh;
+	font-size:5vh;
 	color:white;
 }
 .line2 h4{
 	width:25vh;
 	position:absolute;
-	left:30vh;
-	top:4.7vh;
-	font-size:3vh;
+	left:60vh;
+	top:5vh;
+	font-size:5vh;
 	color:silver;
 }
 
 .line2 h5{
 	width:20vh;
 	position:absolute;
-	left:41vh;
+	left:90vh;
 	top:1vh;
-	font-size:1.5vh;
+	font-size:2vh;
 	color:white;
 }
 .line3{
-   width:50vh;	
-   height:15vh;
+   width:100vh;	
+   height:20vh;
    position:absolute;
-   left:102vh;
+   left:202vh;
    top:15vh;
-   border-radius:1vh;
-   background:rgba(0,0,0,0.5);
+   border-radius:0vh;
+    background-image:linear-gradient(to right,blue,black,black,lime);
 }
 .line3 p{
 	width:50vh;
 	position:absolute;
-	left:5vh;
-	top:2vh;
+	left:4vh;
+	top:1vh;
 	color:white;
 	font-size:2vh;
 }
 .line3 h6{
-	width:20vh;
+	width:30vh;
 	position:absolute;
-	left:8vh;
-	top:12vh;
+	left:5vh;
+	top:17vh;
 	color:red;
 	font-size:2vh;
 }
@@ -174,48 +351,48 @@ nav ul li a{
 	position:absolute;
 	left:6vh;
 	top:5vh;
-	font-size:3vh;
+	font-size:5vh;
 	color:white;
 }
 .line3 h4{
 	width:25vh;
 	position:absolute;
-	left:30vh;
-	top:4.7vh;
-	font-size:3vh;
+	left:60vh;
+	top:5vh;
+	font-size:5vh;
 	color:silver;
 }
 
 .line3 h5{
 	width:20vh;
 	position:absolute;
-	left:41vh;
+	left:90vh;
 	top:1vh;
-	font-size:1.5vh;
+	font-size:2vh;
 	color:white;
 }
 .line4{
-   width:50vh;	
-   height:15vh;
+   width:100vh;	
+   height:20vh;
    position:absolute;
-   left:152vh;
+   left:304vh;
    top:15vh;
-   border-radius:1vh;
-   background:rgba(0,0,0,0.5);
+   border-radius:0vh;
+    background-image:linear-gradient(to right,blue,black,black,lime);
 }
 .line4 p{
 	width:50vh;
 	position:absolute;
-	left:5vh;
-	top:2vh;
+	left:4vh;
+	top:1vh;
 	color:white;
 	font-size:2vh;
 }
 .line4 h6{
-	width:20vh;
+	width:30vh;
 	position:absolute;
-	left:8vh;
-	top:12vh;
+	left:5vh;
+	top:17vh;
 	color:red;
 	font-size:2vh;
 }
@@ -224,73 +401,79 @@ nav ul li a{
 	position:absolute;
 	left:6vh;
 	top:5vh;
-	font-size:3vh;
+	font-size:5vh;
 	color:white;
 }
 .line4 h4{
 	width:25vh;
 	position:absolute;
-	left:30vh;
-	top:4.7vh;
-	font-size:3vh;
+	left:60vh;
+	top:5vh;
+	font-size:5vh;
 	color:silver;
 }
 
 .line4 h5{
 	width:20vh;
 	position:absolute;
-	left:41vh;
+	left:90vh;
 	top:1vh;
-	font-size:1.5vh;
+	font-size:2vh;
 	color:white;
 }
 .show{
 	overflow:hidden;
-	height:50vw;
-	width:24vw;
+	height:50vh;
+	width:101vh;
 	position:absolute;
-	left:30vw;
-	top:20vh;
+	left:55vh;
+	top:43vh;
 }
 .show figure {
 	float:left;
-	width:1vh;
+	width:50vh;
 	position:relative;
 	left:0vh;
-	animation: 30s line infinite;
+	animation: 20s line infinite;
 }
 @keyframes line{
 	0%{
 		left:0vh;
 	}
 	15%{
-		left:0vw;
+		left:0vh;
 	}
 	30%{
-		left:-24vw;
+		left:-101vh;
 	}
 	45%{
-		left:-24vw;
+		left:-101vh;
 	}
 	60%{
-		left:-48vw;
+		left:-202vh;
 	}
 	75%{
-		left:-48vw;
+		left:-202vh;
 	}
 	90%{
-		left:-72vw;
+		left:-304vh;
 	}
 	100%{
-		left:-72vw;
+		left:-304vh;
 	}
 	
 	
 }
 .g img{
-	width:0;
+	width:30vh;
+	position:absolute;
+	left:2vh;
+	top:2vh;
+	 box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
+	 border:0.5vh solid white;
+	border-radius:20px;
 }
-@media screen and (max-width:100vh)
+@media screen and (orientation: portrait)
 {
 	.field img{
 	width:100vw;
@@ -460,6 +643,7 @@ nav ul li a{
 	top:102vw;
 	color:silver;
 	font-size:3vw;
+	text-align:center;
 }
 
 #select{
@@ -515,7 +699,7 @@ nav ul li a{
 	position:absolute;
 	left:4vw;
 	top:22vw;
-	color:red;
+	color:yellow;
 	font-size:3vw;
 }
 .line1 em{
@@ -534,7 +718,14 @@ nav ul li a{
 	font-size:6vw;
 	color:silver;
 }
-
+#counting{
+	width:40vw;
+	position:absolute;
+	left:30vw;
+	top:1vw;
+	font-size:3vw;
+	color:lime;
+}
 .line1 h5{
 	width:20vw;
 	position:absolute;
@@ -593,6 +784,7 @@ nav ul li a{
 	font-size:2vw;
 	color:white;
 }
+
 .line3{
    width:95vw;	
    height:28vw;
