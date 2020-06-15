@@ -91,17 +91,16 @@ body{
 	color:blue;
 	font-size:3vh;
 }
-.info ul li:before{
+.info a:before{
 	content:"";
 	width:0;
 	position:absolute;
-	top:5vh;
-	height:1vh;
+	top:7vh;
 	border-bottom:.5vh solid green;
 	transition: all 0.4s linear;
 }
 
-.info ul li:hover:before{
+.info a:hover:before{
 	width:20vh;
 	
 }
