@@ -36,10 +36,12 @@ nav ul li{
 }
 nav ul li a{
 	text-decoration:none;
-	color:blue;
+	color:white;
 	font-size:50vh italic;
 }
-
+nav ul li a:hover{
+	color:#69FBF4;
+}
 .search input{
 	width:25vh;
 	height:5vh;
@@ -190,6 +192,7 @@ nav ul li a{
 	top:20vh;
     background:none;
 }
+
 .match4 h4{
 	width:20vh;
 	margin:2vh 7vh;
@@ -214,6 +217,7 @@ nav ul li a{
 	color:silver;
 	font-size:3vh;
 }
+
 #counting{
 	width:50vh;
 	position:absolute;
@@ -425,7 +429,7 @@ nav ul li a{
 .show{
 	overflow:hidden;
 	height:50vh;
-	width:101vh;
+	width:100vh;
 	position:absolute;
 	left:55vh;
 	top:43vh;
@@ -677,7 +681,9 @@ nav ul li a{
 	color:brown;
 	font-size:2vw italic;
 }
-
+nav ul li a:hover{
+	color:#69FBF4;
+}
 .line1{
    width:95vw;	
    height:28vw;
