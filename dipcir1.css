@@ -26,7 +26,7 @@ body{
 	display:white;
 	background:none;
 	border-radius:20vh;
-	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
+	box-shadow: 10px 10px 20px #EAF5FE, -10px -10px 20px #EAF5FE;
 }
 .text em{
 	width:60vh;
@@ -50,9 +50,12 @@ body{
 	text-align:center;
 	color:white;
 	background-image:linear-gradient(to right,green,black,black,lime);
-	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
+	box-shadow: 10px 10px 20px #84FB7D, -10px -10px 20px #84FB7D;
 }
-
+.next h4:hover{
+	background:white;
+	color:black;
+}
 
 
 
@@ -90,6 +93,10 @@ body{
 	text-decoration:none;
 	color:blue;
 	font-size:3vh;
+}
+.info ul li a:hover{
+	color:#8799F7;
+	
 }
 .info a:before{
 	content:"";
@@ -199,7 +206,10 @@ body{
 	box-shadow: 10px 10px 20px #F7DFDE, -10px -10px 20px #F7DFDE;
 	display:lnline-block;
 }
-
+.next h4:hover{
+	background:white;
+	color:black;
+}
 .info{
 	
 	text-align:center;
@@ -254,7 +264,9 @@ nav ul li a{
 	color:darkblue;
 	font-size:3vw;
 	 
-	
+}
+nav ul li a:hover{
+	color:#8799F7;
 	
 }
 #si{
