@@ -225,6 +225,153 @@ h1{
 	font-size:2vh;
 	color:white;
 }
+.line5{
+   width:70vh;	
+   height:18vh;
+   position:absolute;
+   left:5vh;
+   top:55vh;
+   border-radius:5vh;
+   background-image:linear-gradient(to right,black,black,black,green);
+}
+.line5 p{
+	width:50vh;
+	position:absolute;
+	left:5vh;
+	top:0vh;
+	color:white;
+	font-size:2vh;
+}
+.line5 h6{
+	width:20vh;
+	position:absolute;
+	left:8vh;
+	top:10vh;
+	color:lime;
+	font-size:2vh;
+}
+.line5 em{
+	width:15vh;
+	position:absolute;
+	left:6vh;
+	top:6vh;
+	font-size:3vh;
+	color:white;
+}
+.line5 h4{
+	width:25vh;
+	position:absolute;
+	left:50vh;
+	top:2vh;
+	font-size:3vh;
+	color:silver;
+}
+.line5 h5{
+	width:20vh;
+	position:absolute;
+	left:60vh;
+	top:-2vh;
+	font-size:2vh;
+	color:white;
+}
+.line6{
+   width:70vh;	
+   height:18vh;
+   position:absolute;
+   left:77vh;
+   top:55vh;
+   border-radius:5vh;
+   background-image:linear-gradient(to right,black,black,black,green);
+}
+.line6 p{
+	width:50vh;
+	position:absolute;
+	left:5vh;
+	top:0vh;
+	color:white;
+	font-size:2vh;
+}
+.line6 h6{
+	width:20vh;
+	position:absolute;
+	left:8vh;
+	top:10vh;
+	color:lime;
+	font-size:2vh;
+}
+.line6 em{
+	width:15vh;
+	position:absolute;
+	left:6vh;
+	top:6vh;
+	font-size:3vh;
+	color:white;
+}
+.line6 h4{
+	width:25vh;
+	position:absolute;
+	left:50vh;
+	top:2vh;
+	font-size:3vh;
+	color:silver;
+}
+.line6 h5{
+	width:20vh;
+	position:absolute;
+	left:60vh;
+	top:-2vh;
+	font-size:2vh;
+	color:white;
+}
+.line7{
+   width:70vh;	
+   height:18vh;
+   position:absolute;
+   left:5vh;
+   top:75vh;
+   border-radius:5vh;
+   background-image:linear-gradient(to right,black,black,black,green);
+}
+.line7 p{
+	width:50vh;
+	position:absolute;
+	left:5vh;
+	top:0vh;
+	color:white;
+	font-size:2vh;
+}
+.line7 h6{
+	width:20vh;
+	position:absolute;
+	left:8vh;
+	top:10vh;
+	color:lime;
+	font-size:2vh;
+}
+.line7 em{
+	width:15vh;
+	position:absolute;
+	left:6vh;
+	top:6vh;
+	font-size:3vh;
+	color:white;
+}
+.line7 h4{
+	width:25vh;
+	position:absolute;
+	left:50vh;
+	top:2vh;
+	font-size:3vh;
+	color:silver;
+}
+.line7 h5{
+	width:20vh;
+	position:absolute;
+	left:60vh;
+	top:-2vh;
+	font-size:2vh;
+	color:white;
+}
 @media screen and (orientation: portrait)
 {
 	h1{
@@ -442,6 +589,156 @@ h1{
 	color:silver;
 }
 .line4 h5{
+	width:20vw;
+	position:absolute;
+	left:77vw;
+	top:-3vw;
+	font-size:3vw;
+	color:white;
+}
+.line5{
+   width:93vw;	
+   height:26vw;
+   position:absolute;
+   left:3vw;
+   top:128vw;
+   border-radius:5vw;
+   background-image:linear-gradient(to right,black,black,black,green);
+}
+.line5 p{
+	width:50vw;
+	position:absolute;
+	left:5vw;
+	top:0vw;
+	color:white;
+	font-size:3vw;
+}
+.line5 h6{
+	width:30vw;
+	position:absolute;
+	left:8vw;
+	top:14vw;
+	color:lime;
+	font-size:3vw;
+}
+.line5 em{
+	width:25vw;
+	position:absolute;
+	left:6vw;
+	top:8vw;
+	font-size:4.5vw;
+	color:white;
+}
+.line5 h4{
+	width:25vw;
+	position:absolute;
+	left:60vw;
+	top:2.65vw;
+	font-size:4.2vw;
+	color:silver;
+}
+
+.line5 h5{
+	width:20vw;
+	position:absolute;
+	left:77vw;
+	top:-3vw;
+	font-size:3vw;
+	color:white;
+}
+.line6{
+   width:93vw;	
+   height:26vw;
+   position:absolute;
+   left:3vw;
+   top:155vw;
+   border-radius:5vw;
+   background-image:linear-gradient(to right,black,black,black,green);
+}
+.line6 p{
+	width:50vw;
+	position:absolute;
+	left:5vw;
+	top:0vw;
+	color:white;
+	font-size:3vw;
+}
+.line6 h6{
+	width:30vw;
+	position:absolute;
+	left:8vw;
+	top:14vw;
+	color:lime;
+	font-size:3vw;
+}
+.line6 em{
+	width:25vw;
+	position:absolute;
+	left:6vw;
+	top:8vw;
+	font-size:4.5vw;
+	color:white;
+}
+.line6 h4{
+	width:25vw;
+	position:absolute;
+	left:60vw;
+	top:2.65vw;
+	font-size:4.2vw;
+	color:silver;
+}
+
+.line6 h5{
+	width:20vw;
+	position:absolute;
+	left:77vw;
+	top:-3vw;
+	font-size:3vw;
+	color:white;
+}
+.line7{
+   width:93vw;	
+   height:26vw;
+   position:absolute;
+   left:3vw;
+   top:182vw;
+   border-radius:5vw;
+   background-image:linear-gradient(to right,black,black,black,green);
+}
+.line7 p{
+	width:50vw;
+	position:absolute;
+	left:5vw;
+	top:0vw;
+	color:white;
+	font-size:3vw;
+}
+.line7 h6{
+	width:30vw;
+	position:absolute;
+	left:8vw;
+	top:14vw;
+	color:lime;
+	font-size:3vw;
+}
+.line7 em{
+	width:25vw;
+	position:absolute;
+	left:6vw;
+	top:8vw;
+	font-size:4.5vw;
+	color:white;
+}
+.line7 h4{
+	width:25vw;
+	position:absolute;
+	left:60vw;
+	top:2.65vw;
+	font-size:4.2vw;
+	color:silver;
+}
+
+.line7 h5{
 	width:20vw;
 	position:absolute;
 	left:77vw;
