@@ -217,6 +217,24 @@ nav ul li a:hover{
 	color:silver;
 	font-size:3vh;
 }
+.fullscorecard em{
+	width:25vh;
+	height:4vh;
+	list-style:none;
+	position:absolute;
+	left:160vh;
+	top:2vh;
+	font-size:3vh;
+	text-align:center;
+	text-decoration:none;
+	color:black;
+	 border-radius:1vh;
+	  box-shadow: 10px 10px 20px #D6D6D6, -10px -10px 20px #D6D6D6;
+    background-image:linear-gradient(to right,silver,yellow,yellow,silver);
+}
+.fullscorecard em:hover{
+	background:white;
+}
 
 #counting{
 	width:50vh;
@@ -649,6 +667,24 @@ nav ul li a:hover{
 	color:silver;
 	font-size:3vw;
 	text-align:center;
+}
+.fullscorecard em{
+	width:25vw;
+	height:4vw;
+	list-style:none;
+	position:absolute;
+	left:55vw;
+	top:4vw;
+	font-size:3vw;
+	text-align:center;
+	text-decoration:none;
+	color:black;
+	 border-radius:1vw;
+	  box-shadow: 10px 10px 20px #D6D6D6, -10px -10px 20px #D6D6D6;
+    background-image:linear-gradient(to right,silver,yellow,yellow,silver);
+}
+.fullscorecard em:hover{
+	background:white;
 }
 
 #select{
