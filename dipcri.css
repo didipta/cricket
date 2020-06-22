@@ -237,16 +237,21 @@ nav ul li a:hover{
 }
 
 .highlightD em{
+	width:210vh;
 	position:absolute;
-	left:50vh;
+	left:0vh;
 	top:95vh;
+	color:white;
+	text-align:center;
+	font-size:5vh;
+	background-image:linear-gradient(to right,red,black,black,blue);
 }
 .highlightD iframe{
-	width:130vh;
+	width:125vh;
 	height:70vh;
 	position:absolute;
-	left:50vh;
-	top:100vh;
+	left:45vh;
+	top:105vh;
 }
 #counting{
 	width:50vh;
@@ -701,15 +706,21 @@ nav ul li a:hover{
 
 .highlightD em{
 	position:absolute;
+	width:100vw;
 	left:0vw;
 	top:205vw;
+	color:white;
+	color:white;
+	text-align:center;
+	font-size:3vw;
+	background-image:linear-gradient(to right,red,black,black,blue);
 }
 .highlightD iframe{
 	width:100vw;
-	height:60vw;
+	height:56vw;
 	position:absolute;
 	left:0vw;
-	top:215vw;
+	top:210vw;
 }
 #select{
 	width:13vw;
