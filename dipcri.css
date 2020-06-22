@@ -9,6 +9,24 @@
 	left:55vh;
 	top:0vh;
 }
+.fullscorecard em{
+	width:25vh;
+	height:4vh;
+	list-style:none;
+	position:absolute;
+	left:160vh;
+	top:2vh;
+	font-size:3vh;
+	text-align:center;
+	text-decoration:none;
+	color:black;
+	 border-radius:1vh;
+	  box-shadow: 10px 10px 20px #D6D6D6, -10px -10px 20px #D6D6D6;
+    background-image:linear-gradient(to right,silver,yellow,yellow,silver);
+}
+.fullscorecard em:hover{
+	background:white;
+}
 #select{
 	width:10vh;
 	position:fixed;
@@ -177,7 +195,7 @@ nav ul li a:hover{
 	
 }
 .match3 h3{
-	width:40vh;
+	width:30vh;
 	position:absolute;
 	left:12vh;
 	top:-7vh;
@@ -217,29 +235,7 @@ nav ul li a:hover{
 	color:silver;
 	font-size:3vh;
 }
-.fullscorecard em{
-	width:25vh;
-	height:4vh;
-	list-style:none;
-	position:absolute;
-	left:160vh;
-	top:2vh;
-	font-size:3vh;
-	text-align:center;
-	text-decoration:none;
-	color:black;
-	 border-radius:1vh;
-	  box-shadow: 10px 10px 20px #D6D6D6, -10px -10px 20px #D6D6D6;
-    background-image:linear-gradient(to right,silver,yellow,yellow,silver);
-}
-.fullscorecard em:hover{
-	background:white;
-}
-.highlightM{
-	position:absolute;
-	left:0vw;
-	top:-100000000000000vh;
-}
+
 .highlightD em{
 	position:absolute;
 	left:50vh;
@@ -702,15 +698,18 @@ nav ul li a:hover{
 .fullscorecard em:hover{
 	background:white;
 }
-.highlightM{
+
+.highlightD em{
 	position:absolute;
 	left:0vw;
-	top:210vw;
+	top:205vw;
 }
-.highlightD{
+.highlightD iframe{
+	width:100vw;
+	height:60vw;
 	position:absolute;
-	left:-1000000000vw;
-	top:0vw;
+	left:0vw;
+	top:215vw;
 }
 #select{
 	width:13vw;
