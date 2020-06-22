@@ -235,7 +235,23 @@ nav ul li a:hover{
 .fullscorecard em:hover{
 	background:white;
 }
-
+.highlightM{
+	position:absolute;
+	left:0vw;
+	top:-100000000000000vh;
+}
+.highlightD em{
+	position:absolute;
+	left:50vh;
+	top:95vh;
+}
+.highlightD iframe{
+	width:130vh;
+	height:70vh;
+	position:absolute;
+	left:50vh;
+	top:100vh;
+}
 #counting{
 	width:50vh;
 	position:absolute;
@@ -686,7 +702,16 @@ nav ul li a:hover{
 .fullscorecard em:hover{
 	background:white;
 }
-
+.highlightM{
+	position:absolute;
+	left:0vw;
+	top:210vw;
+}
+.highlightD{
+	position:absolute;
+	left:-1000000000vw;
+	top:0vw;
+}
 #select{
 	width:13vw;
 	position:fixed;
