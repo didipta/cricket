@@ -702,15 +702,10 @@ nav ul li a:hover{
 .fullscorecard em:hover{
 	background:white;
 }
-.highlightM iframe{
+.highlightM{
 	position:absolute;
 	left:0vw;
 	top:210vw;
-}
-.highlightM em{
-	position:absolute;
-	left:0vh;
-	top:205vw;
 }
 .highlightD{
 	position:absolute;
